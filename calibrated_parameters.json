@@ -47,7 +47,7 @@
         0.12
       ]
     ],
-    "prior_gameweeks": 3.375,
+    "prior_gameweeks": 5.0625,
     "sixty_minute_given_start": 0.931974921630094,
     "substitute_start_rate": 0.07332939089296274
   },
@@ -69,7 +69,7 @@
       "start_calibration_error": 0.2101037548895319,
       "start_log_loss": 0.7249102057929784
     },
-    "fitted_at": "2026-09-04T02:07:21.254659+00:00",
+    "fitted_at": "2026-09-04T03:12:49.047087+00:00",
     "metrics": {
       "minutes_mae": 23.896871714773408,
       "start_brier": 0.17227063832015432,
