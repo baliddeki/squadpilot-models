@@ -47,7 +47,7 @@
         0.12
       ]
     ],
-    "prior_gameweeks": 4.0,
+    "prior_gameweeks": 2.0,
     "sixty_minute_given_start": 0.931974921630094,
     "start_rate_basis": "per_fixture",
     "substitute_start_rate": 0.07332939089296274
@@ -65,12 +65,12 @@
   },
   "provenance": {
     "champion_metrics": {
-      "minutes_mae": 24.229469042247555,
-      "start_brier": 0.169346427449671,
-      "start_calibration_error": 0.15691355617365624,
-      "start_log_loss": 0.5019033918705282
+      "minutes_mae": 19.20988284190293,
+      "start_brier": 0.10814569845943889,
+      "start_calibration_error": 0.02522677217078492,
+      "start_log_loss": 0.340302616188354
     },
-    "fitted_at": "2026-09-05T10:57:31.035909+00:00",
+    "fitted_at": "2026-09-05T17:50:09.379235+00:00",
     "metrics": {
       "minutes_mae": 17.472831159170262,
       "start_brier": 0.10739318256772806,
