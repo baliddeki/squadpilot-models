@@ -1,47 +1,30 @@
-# SquadPilot model bundles
+# SquadPilot model artifacts
 
-Machine-generated projection parameters for the SquadPilot FPL app. **Nothing
-here is hand-edited** — every file is overwritten by a scheduled job in the
-app's own (private) repository.
-
-This repository is public for one reason: a mobile app cannot hold a GitHub
-token, so it cannot read a private repository. Only these generated files live
-here; the app source does not.
+Machine-generated data published by SquadPilot's private application
+repository. This public repository contains no credentials or application
+source; it exists so the mobile app can download model data without embedding
+a GitHub token.
 
 ## Files
 
-| File | What it is |
-|---|---|
-| `calibrated_parameters.json` | Fitted values for constants the app would otherwise guess — minutes, per-90 rate priors, shrinkage strengths, fixture scaling, bonus divisors. |
-| `model_bundle.json` | Per-player projections for the next few gameweeks, with a points distribution and effective ownership. |
+- `calibrated_parameters.json` contains the champion parameters used by the
+  on-device projection engine. A challenger replaces it only after
+  walk-forward evaluation, plausibility clamps and move limits.
+- `ownership.json` is the small effective-ownership artifact consumed by the
+  rank-aware decision layer.
+- `model_bundle.json` contains diagnostic backend point distributions. Point
+  projections remain on device until the backend simulator has its own
+  held-out points promotion gate.
 
-## How the parameters are produced
+The first ML-capable app release does not need to wait for several live
+gameweeks. Before the current season has five evaluation splits, challengers
+are judged on the latest complete season. Once enough live evidence exists,
+the pipeline switches evaluation sets automatically without another app-store
+release.
 
-Structural parameters are fitted on several completed seasons pooled together —
-how many minutes a starter plays, how fast an observed start rate earns trust,
-what a typical forward produces per 90. Those are properties of the
-competition, and are better estimated from four seasons than from three
-gameweeks.
+Both consumers cache the last valid download and fall back to values compiled
+into the app. `schema_version` prevents a newer incompatible bundle from being
+partially applied by an older app.
 
-Player form is **not** carried across seasons. Accumulation resets at every
-season boundary, and FPL reassigns player ids each summer, so pooling on the
-bare id would chain one footballer's record onto another's.
-
-A refit is only published if it beats the parameters currently shipped, scored
-walk-forward on data it did not train on. Early in a season, when the current
-season is too short to tell a good model from a bad one, the comparison falls
-back to the most recent complete season. Each bundle records the metrics that
-justified it under `provenance`.
-
-Every fitted value is also clamped to a plausible range and limited in how far
-it may move per refit, so a bad week nudges the parameters rather than lurching
-them.
-
-## Consuming these
-
-The app reads `calibrated_parameters.json` and falls back to constants compiled
-into the binary if it is missing, stale, or unparseable. A failed download is
-never a broken app — it is last week's parameters, or the built-in ones.
-
-`schema_version` gates compatibility: a bundle newer than the reading code
-understands is refused outright rather than half-applied.
+Do not edit the JSON files or this README here. The scheduled publishing job
+will replace them.
