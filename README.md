@@ -9,7 +9,10 @@ a GitHub token.
 
 - `calibrated_parameters.json` contains the champion parameters used by the
   on-device projection engine. A challenger replaces it only after
-  walk-forward evaluation, plausibility clamps and move limits.
+  walk-forward evaluation, plausibility clamps and move limits. It carries no
+  club attack/defence ratings: those are fitted, but replaying whole seasons
+  showed a squad planned on them finishing behind one planned on FPL's own
+  difficulty numbers, so they are withheld rather than published.
 - `ownership.json` is the small effective-ownership artifact consumed by the
   rank-aware decision layer.
 - `model_bundle.json` contains diagnostic backend point distributions. Point
