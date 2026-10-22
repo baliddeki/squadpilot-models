@@ -1,33 +1,34 @@
 {
   "fixtures": {
     "attack": {},
-    "baseline_goals": 1.35,
+    "baseline_goals": 1.215,
     "defence": {},
     "difficulty_step": 0.12,
-    "home_advantage": 1.08,
-    "time_decay": 0.0
+    "home_advantage": 1.1880000000000002,
+    "rated_matches": 0,
+    "time_decay": 0.05
   },
   "minutes": {
     "cameo_likelihood": {
-      "DEF": 0.11417914313837227,
-      "FWD": 0.21809536049350983,
-      "GKP": 0.004384799362211002,
-      "MID": 0.199056168612284
+      "DEF": 0.1154809619238477,
+      "FWD": 0.22014370664023786,
+      "GKP": 0.0043662514447155515,
+      "MID": 0.20089759841036006
     },
-    "cameo_minutes": 18.175502933780386,
+    "cameo_minutes": 18.152004008016032,
     "doubtful_factor": 0.5,
-    "nailed_minutes": 82.74188871473355,
+    "nailed_minutes": 82.72524417731029,
     "price_prior_intercept": {
-      "DEF": -8.108908107406346,
+      "DEF": -8.10890810740637,
       "FWD": -7.333170930543824,
-      "GKP": -9.17680547468611,
-      "MID": -9.8904101895796
+      "GKP": -9.176805474686114,
+      "MID": -9.890410189579596
     },
     "price_prior_log_cost": {
-      "DEF": 4.956275655256029,
+      "DEF": 4.956275655256044,
       "FWD": 3.56201714937244,
-      "GKP": 5.449004201519031,
-      "MID": 5.378568646170468
+      "GKP": 5.449004201519033,
+      "MID": 5.378568646170466
     },
     "price_tiers": [
       [
@@ -47,10 +48,10 @@
         0.12
       ]
     ],
-    "prior_gameweeks": 2.0,
-    "sixty_minute_given_start": 0.931974921630094,
+    "prior_gameweeks": 1.0,
+    "sixty_minute_given_start": 0.9318557475582269,
     "start_rate_basis": "per_fixture",
-    "substitute_start_rate": 0.07332939089296274
+    "substitute_start_rate": 0.0767181081381148
   },
   "points": {
     "bonus_cap": 2.0,
@@ -60,59 +61,64 @@
     "defensive_bonus_cap": 0.6,
     "defensive_bonus_divisor": 18.0,
     "ict_bonus_cap": 1.6,
-    "ict_bonus_divisor": 11.307361221595718,
+    "ict_bonus_divisor": 11.243316066142715,
     "penalty_rate": 0.06
   },
   "provenance": {
     "champion_metrics": {
-      "minutes_mae": 19.20988284190293,
-      "start_brier": 0.10814569845943889,
-      "start_calibration_error": 0.02522677217078492,
-      "start_log_loss": 0.340302616188354
+      "minutes_mae": 19.710659250464715,
+      "start_brier": 0.11161537063203224,
+      "start_calibration_error": 0.07926337474169942,
+      "start_log_loss": 0.3556139689833536
     },
-    "fitted_at": "2026-09-05T17:50:09.379235+00:00",
+    "fitted_at": "2026-10-22T17:17:51.240946+00:00",
     "metrics": {
-      "minutes_mae": 17.472831159170262,
-      "start_brier": 0.10739318256772806,
-      "start_calibration_error": 0.023823354443372007,
-      "start_log_loss": 0.33124077686428477
+      "minutes_mae": 17.75493790462617,
+      "start_brier": 0.10466480757450143,
+      "start_calibration_error": 0.05063537865813206,
+      "start_log_loss": 0.33476072683232416
     },
-    "notes": "Structural parameters fitted on 88313 observations across 4 season(s); scored on ['2026-27']. Promotion judged on holdout 2025-26. start_rate_basis=per_fixture.",
-    "observations": 1236,
+    "notes": "Structural parameters fitted on 91628 observations across 4 season(s); scored on ['2026-27']. Promotion judged on current season. start_rate_basis=per_fixture.",
+    "observations": 4551,
     "season": "2026-27",
     "train_events": [
       1,
-      2
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
     ],
-    "version": "0.1.2"
+    "version": "0.1.7"
   },
   "rates": {
     "assists_per_90": {
-      "DEF": 0.05759082423894314,
-      "FWD": 0.07451692905874979,
-      "GKP": 0.0017283063090566203,
-      "MID": 0.13128032505326775
+      "DEF": 0.05759524701891296,
+      "FWD": 0.07390731576256056,
+      "GKP": 0.0017875290612688116,
+      "MID": 0.1312779117120376
     },
-    "conceded_per_90": 1.5024419703812624,
+    "conceded_per_90": 1.4990666314774077,
     "defensive_per_90": {
-      "DEF": 7.680847371794645,
-      "FWD": 4.764919843728951,
+      "DEF": 7.675306957708049,
+      "FWD": 4.693179942950093,
       "GKP": 0.0,
-      "MID": 8.566687797147384
+      "MID": 8.499224063923926
     },
-    "form_tilt_max": 1.4,
-    "form_tilt_min": 0.7,
+    "form_tilt_max": 1.0,
+    "form_tilt_min": 1.0,
     "goals_per_90": {
-      "DEF": 0.0533475732337737,
-      "FWD": 0.4231578803928159,
-      "GKP": 0.00011078886596516798,
-      "MID": 0.16801222080082137
+      "DEF": 0.053961213880751986,
+      "FWD": 0.42408368795555584,
+      "GKP": 0.00010441174423299132,
+      "MID": 0.16765182878232887
     },
     "involvement_per_90": {
-      "DEF": 3.65133902929351,
-      "FWD": 6.696180855219529,
-      "GKP": 2.5073292989772953,
-      "MID": 5.752588259600194
+      "DEF": 3.6629036257672816,
+      "FWD": 6.670535010096984,
+      "GKP": 2.499575392240119,
+      "MID": 5.746837417941802
     },
     "prior_minutes": 600.0,
     "prior_minutes_by_rate": {
@@ -120,12 +126,12 @@
       "defensive": 180.0,
       "goals": 180.0,
       "involvement": 360.0,
-      "saves": 1500.0
+      "saves": 2400.0
     },
     "saves_per_90": {
       "DEF": 0.0,
       "FWD": 0.0,
-      "GKP": 3.0480232804337017,
+      "GKP": 3.035875875318456,
       "MID": 0.0
     }
   },
