@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T13:33:27.435444+00:00",
+  "generated_at": "2026-11-22T21:26:49.648307+00:00",
   "horizon": [
     11,
     12,
@@ -1111,7 +1111,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 3.126,
+          "mean": 3.184,
           "opponent_id": 11,
           "opponent_ids": [
             11
@@ -1129,7 +1129,7 @@
             112
           ],
           "floor": 1.0,
-          "mean": 3.654,
+          "mean": 3.568,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -1147,7 +1147,7 @@
             122
           ],
           "floor": 0.0,
-          "mean": 2.948,
+          "mean": 2.924,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -1164,8 +1164,8 @@
           "fixture_ids": [
             139
           ],
-          "floor": 0.0,
-          "mean": 2.856,
+          "floor": 1.0,
+          "mean": 2.996,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -1183,7 +1183,7 @@
             142
           ],
           "floor": 1.0,
-          "mean": 3.544,
+          "mean": 3.416,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -1408,7 +1408,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 0.056,
+          "mean": 0.02,
           "opponent_id": 11,
           "opponent_ids": [
             11
@@ -1426,7 +1426,7 @@
             112
           ],
           "floor": 0.0,
-          "mean": 0.054,
+          "mean": 0.09,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -1444,7 +1444,7 @@
             122
           ],
           "floor": 0.0,
-          "mean": 0.048,
+          "mean": 0.032,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -1462,7 +1462,7 @@
             139
           ],
           "floor": 0.0,
-          "mean": 0.052,
+          "mean": 0.074,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -1480,7 +1480,7 @@
             142
           ],
           "floor": 0.0,
-          "mean": 0.05,
+          "mean": 0.07,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -1606,7 +1606,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 2.228,
+          "mean": 2.416,
           "opponent_id": 11,
           "opponent_ids": [
             11
@@ -1624,7 +1624,7 @@
             112
           ],
           "floor": 0.0,
-          "mean": 2.496,
+          "mean": 2.386,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -1642,7 +1642,7 @@
             122
           ],
           "floor": 0.0,
-          "mean": 1.806,
+          "mean": 1.894,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -1660,7 +1660,7 @@
             139
           ],
           "floor": 0.0,
-          "mean": 2.048,
+          "mean": 2.078,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -1669,7 +1669,7 @@
           "was_home": false
         },
         "15": {
-          "ceiling": 7.0,
+          "ceiling": 6.0,
           "event": 15,
           "expected_minutes": 55.555,
           "fixture_count": 1,
@@ -1678,7 +1678,7 @@
             142
           ],
           "floor": 0.0,
-          "mean": 2.502,
+          "mean": 2.466,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -1704,8 +1704,8 @@
           "fixture_ids": [
             106
           ],
-          "floor": 1.0,
-          "mean": 3.23,
+          "floor": 0.0,
+          "mean": 3.17,
           "opponent_id": 11,
           "opponent_ids": [
             11
@@ -1722,8 +1722,8 @@
           "fixture_ids": [
             112
           ],
-          "floor": 0.0,
-          "mean": 3.944,
+          "floor": 1.0,
+          "mean": 3.938,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -1741,7 +1741,7 @@
             122
           ],
           "floor": 0.0,
-          "mean": 2.966,
+          "mean": 2.982,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -1759,7 +1759,7 @@
             139
           ],
           "floor": 0.0,
-          "mean": 2.702,
+          "mean": 2.864,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -1777,7 +1777,7 @@
             142
           ],
           "floor": 1.0,
-          "mean": 3.75,
+          "mean": 3.622,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -1822,7 +1822,7 @@
             112
           ],
           "floor": 1.0,
-          "mean": 5.494,
+          "mean": 5.542,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -1840,7 +1840,7 @@
             122
           ],
           "floor": 1.0,
-          "mean": 3.86,
+          "mean": 4.11,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -1849,7 +1849,7 @@
           "was_home": false
         },
         "14": {
-          "ceiling": 9.0,
+          "ceiling": 8.0,
           "event": 14,
           "expected_minutes": 79.678,
           "fixture_count": 1,
@@ -1857,8 +1857,8 @@
           "fixture_ids": [
             139
           ],
-          "floor": 1.0,
-          "mean": 3.99,
+          "floor": 0.0,
+          "mean": 3.966,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -1867,7 +1867,7 @@
           "was_home": false
         },
         "15": {
-          "ceiling": 11.0,
+          "ceiling": 12.0,
           "event": 15,
           "expected_minutes": 79.678,
           "fixture_count": 1,
@@ -1876,7 +1876,7 @@
             142
           ],
           "floor": 1.0,
-          "mean": 5.106,
+          "mean": 5.04,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -1903,7 +1903,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 2.278,
+          "mean": 2.38,
           "opponent_id": 11,
           "opponent_ids": [
             11
@@ -1912,7 +1912,7 @@
           "was_home": false
         },
         "12": {
-          "ceiling": 6.0,
+          "ceiling": 7.0,
           "event": 12,
           "expected_minutes": 63.243,
           "fixture_count": 1,
@@ -1921,7 +1921,7 @@
             112
           ],
           "floor": 0.0,
-          "mean": 2.838,
+          "mean": 2.832,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -1939,7 +1939,7 @@
             122
           ],
           "floor": 0.0,
-          "mean": 2.178,
+          "mean": 2.272,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -1957,7 +1957,7 @@
             139
           ],
           "floor": 0.0,
-          "mean": 2.254,
+          "mean": 2.25,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -1975,7 +1975,7 @@
             142
           ],
           "floor": 0.0,
-          "mean": 2.816,
+          "mean": 2.64,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -2002,7 +2002,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 0.23,
+          "mean": 0.226,
           "opponent_id": 11,
           "opponent_ids": [
             11
@@ -2020,7 +2020,7 @@
             112
           ],
           "floor": 0.0,
-          "mean": 0.168,
+          "mean": 0.196,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -2038,7 +2038,7 @@
             122
           ],
           "floor": 0.0,
-          "mean": 0.152,
+          "mean": 0.106,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -2056,7 +2056,7 @@
             139
           ],
           "floor": 0.0,
-          "mean": 0.166,
+          "mean": 0.16,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -2074,7 +2074,7 @@
             142
           ],
           "floor": 0.0,
-          "mean": 0.18,
+          "mean": 0.142,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -2191,93 +2191,93 @@
       "effective_ownership": null,
       "gameweeks": {
         "11": {
-          "ceiling": 3.0,
+          "ceiling": 0.0,
           "event": 11,
-          "expected_minutes": 19.263,
+          "expected_minutes": 0.0,
           "fixture_count": 1,
           "fixture_id": 106,
           "fixture_ids": [
             106
           ],
           "floor": 0.0,
-          "mean": 0.948,
+          "mean": 0.0,
           "opponent_id": 11,
           "opponent_ids": [
             11
           ],
-          "start_probability": 0.213,
+          "start_probability": 0.0,
           "was_home": false
         },
         "12": {
-          "ceiling": 3.0,
+          "ceiling": 0.0,
           "event": 12,
-          "expected_minutes": 19.263,
+          "expected_minutes": 0.0,
           "fixture_count": 1,
           "fixture_id": 112,
           "fixture_ids": [
             112
           ],
           "floor": 0.0,
-          "mean": 0.95,
+          "mean": 0.0,
           "opponent_id": 17,
           "opponent_ids": [
             17
           ],
-          "start_probability": 0.213,
+          "start_probability": 0.0,
           "was_home": true
         },
         "13": {
-          "ceiling": 3.0,
+          "ceiling": 0.0,
           "event": 13,
-          "expected_minutes": 19.263,
+          "expected_minutes": 0.0,
           "fixture_count": 1,
           "fixture_id": 122,
           "fixture_ids": [
             122
           ],
           "floor": 0.0,
-          "mean": 0.824,
+          "mean": 0.0,
           "opponent_id": 3,
           "opponent_ids": [
             3
           ],
-          "start_probability": 0.213,
+          "start_probability": 0.0,
           "was_home": false
         },
         "14": {
-          "ceiling": 2.0,
+          "ceiling": 0.0,
           "event": 14,
-          "expected_minutes": 19.263,
+          "expected_minutes": 0.0,
           "fixture_count": 1,
           "fixture_id": 139,
           "fixture_ids": [
             139
           ],
           "floor": 0.0,
-          "mean": 0.758,
+          "mean": 0.0,
           "opponent_id": 18,
           "opponent_ids": [
             18
           ],
-          "start_probability": 0.213,
+          "start_probability": 0.0,
           "was_home": false
         },
         "15": {
-          "ceiling": 5.0,
+          "ceiling": 0.0,
           "event": 15,
-          "expected_minutes": 19.263,
+          "expected_minutes": 0.0,
           "fixture_count": 1,
           "fixture_id": 142,
           "fixture_ids": [
             142
           ],
           "floor": 0.0,
-          "mean": 1.24,
+          "mean": 0.0,
           "opponent_id": 9,
           "opponent_ids": [
             9
           ],
-          "start_probability": 0.213,
+          "start_probability": 0.0,
           "was_home": true
         }
       },
@@ -2398,7 +2398,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 0.482,
+          "mean": 0.55,
           "opponent_id": 11,
           "opponent_ids": [
             11
@@ -2407,7 +2407,7 @@
           "was_home": false
         },
         "12": {
-          "ceiling": 2.0,
+          "ceiling": 1.0,
           "event": 12,
           "expected_minutes": 11.143,
           "fixture_count": 1,
@@ -2416,7 +2416,7 @@
             112
           ],
           "floor": 0.0,
-          "mean": 0.65,
+          "mean": 0.532,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -2434,7 +2434,7 @@
             122
           ],
           "floor": 0.0,
-          "mean": 0.366,
+          "mean": 0.436,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -2452,7 +2452,7 @@
             139
           ],
           "floor": 0.0,
-          "mean": 0.492,
+          "mean": 0.412,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -2461,7 +2461,7 @@
           "was_home": false
         },
         "15": {
-          "ceiling": 1.0,
+          "ceiling": 2.0,
           "event": 15,
           "expected_minutes": 11.143,
           "fixture_count": 1,
@@ -2470,7 +2470,7 @@
             142
           ],
           "floor": 0.0,
-          "mean": 0.538,
+          "mean": 0.666,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -2587,7 +2587,7 @@
       "effective_ownership": null,
       "gameweeks": {
         "11": {
-          "ceiling": 2.0,
+          "ceiling": 1.0,
           "event": 11,
           "expected_minutes": 11.986,
           "fixture_count": 1,
@@ -2596,7 +2596,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 0.662,
+          "mean": 0.522,
           "opponent_id": 11,
           "opponent_ids": [
             11
@@ -2614,7 +2614,7 @@
             112
           ],
           "floor": 0.0,
-          "mean": 0.682,
+          "mean": 0.594,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -2632,7 +2632,7 @@
             122
           ],
           "floor": 0.0,
-          "mean": 0.73,
+          "mean": 0.658,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -2650,7 +2650,7 @@
             139
           ],
           "floor": 0.0,
-          "mean": 0.544,
+          "mean": 0.512,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -2668,7 +2668,7 @@
             142
           ],
           "floor": 0.0,
-          "mean": 0.518,
+          "mean": 0.664,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -2686,7 +2686,7 @@
       "effective_ownership": null,
       "gameweeks": {
         "11": {
-          "ceiling": 3.0,
+          "ceiling": 5.0,
           "event": 11,
           "expected_minutes": 13.818,
           "fixture_count": 1,
@@ -2695,7 +2695,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 1.03,
+          "mean": 1.238,
           "opponent_id": 11,
           "opponent_ids": [
             11
@@ -2713,7 +2713,7 @@
             112
           ],
           "floor": 0.0,
-          "mean": 1.498,
+          "mean": 1.364,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -2722,7 +2722,7 @@
           "was_home": true
         },
         "13": {
-          "ceiling": 5.0,
+          "ceiling": 6.0,
           "event": 13,
           "expected_minutes": 13.818,
           "fixture_count": 1,
@@ -2731,7 +2731,7 @@
             122
           ],
           "floor": 0.0,
-          "mean": 1.226,
+          "mean": 1.256,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -2740,7 +2740,7 @@
           "was_home": false
         },
         "14": {
-          "ceiling": 3.0,
+          "ceiling": 4.0,
           "event": 14,
           "expected_minutes": 13.818,
           "fixture_count": 1,
@@ -2749,7 +2749,7 @@
             139
           ],
           "floor": 0.0,
-          "mean": 0.926,
+          "mean": 1.108,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -2758,7 +2758,7 @@
           "was_home": false
         },
         "15": {
-          "ceiling": 5.0,
+          "ceiling": 4.0,
           "event": 15,
           "expected_minutes": 13.818,
           "fixture_count": 1,
@@ -2767,7 +2767,7 @@
             142
           ],
           "floor": 0.0,
-          "mean": 1.224,
+          "mean": 1.16,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -2794,7 +2794,7 @@
             106
           ],
           "floor": 1.0,
-          "mean": 4.222,
+          "mean": 4.358,
           "opponent_id": 11,
           "opponent_ids": [
             11
@@ -2803,7 +2803,7 @@
           "was_home": false
         },
         "12": {
-          "ceiling": 9.0,
+          "ceiling": 10.0,
           "event": 12,
           "expected_minutes": 79.147,
           "fixture_count": 1,
@@ -2811,8 +2811,8 @@
           "fixture_ids": [
             112
           ],
-          "floor": 2.0,
-          "mean": 4.846,
+          "floor": 1.0,
+          "mean": 5.19,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -2829,8 +2829,8 @@
           "fixture_ids": [
             122
           ],
-          "floor": 2.0,
-          "mean": 4.062,
+          "floor": 1.0,
+          "mean": 4.076,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -2847,8 +2847,8 @@
           "fixture_ids": [
             139
           ],
-          "floor": 1.0,
-          "mean": 4.078,
+          "floor": 2.0,
+          "mean": 4.064,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -2866,7 +2866,7 @@
             142
           ],
           "floor": 1.0,
-          "mean": 4.744,
+          "mean": 4.782,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -2893,7 +2893,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 0.72,
+          "mean": 0.696,
           "opponent_id": 11,
           "opponent_ids": [
             11
@@ -2902,7 +2902,7 @@
           "was_home": false
         },
         "12": {
-          "ceiling": 3.0,
+          "ceiling": 2.0,
           "event": 12,
           "expected_minutes": 12.501,
           "fixture_count": 1,
@@ -2911,7 +2911,7 @@
             112
           ],
           "floor": 0.0,
-          "mean": 0.93,
+          "mean": 0.794,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -2929,7 +2929,7 @@
             122
           ],
           "floor": 0.0,
-          "mean": 0.65,
+          "mean": 0.622,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -2938,7 +2938,7 @@
           "was_home": false
         },
         "14": {
-          "ceiling": 2.0,
+          "ceiling": 3.0,
           "event": 14,
           "expected_minutes": 12.501,
           "fixture_count": 1,
@@ -2947,7 +2947,7 @@
             139
           ],
           "floor": 0.0,
-          "mean": 0.774,
+          "mean": 0.802,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -2965,7 +2965,7 @@
             142
           ],
           "floor": 0.0,
-          "mean": 0.76,
+          "mean": 0.89,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -2992,7 +2992,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 0.698,
+          "mean": 0.65,
           "opponent_id": 11,
           "opponent_ids": [
             11
@@ -3001,7 +3001,7 @@
           "was_home": false
         },
         "12": {
-          "ceiling": 2.0,
+          "ceiling": 3.0,
           "event": 12,
           "expected_minutes": 11.36,
           "fixture_count": 1,
@@ -3010,7 +3010,7 @@
             112
           ],
           "floor": 0.0,
-          "mean": 0.752,
+          "mean": 0.862,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -3028,7 +3028,7 @@
             122
           ],
           "floor": 0.0,
-          "mean": 0.658,
+          "mean": 0.598,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -3046,7 +3046,7 @@
             139
           ],
           "floor": 0.0,
-          "mean": 0.702,
+          "mean": 0.706,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -3055,7 +3055,7 @@
           "was_home": false
         },
         "15": {
-          "ceiling": 3.0,
+          "ceiling": 2.0,
           "event": 15,
           "expected_minutes": 11.36,
           "fixture_count": 1,
@@ -3064,7 +3064,7 @@
             142
           ],
           "floor": 0.0,
-          "mean": 1.0,
+          "mean": 0.806,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -3082,7 +3082,7 @@
       "effective_ownership": 0.06,
       "gameweeks": {
         "11": {
-          "ceiling": 6.0,
+          "ceiling": 7.0,
           "event": 11,
           "expected_minutes": 77.295,
           "fixture_count": 1,
@@ -3091,7 +3091,7 @@
             106
           ],
           "floor": 1.0,
-          "mean": 3.316,
+          "mean": 3.55,
           "opponent_id": 11,
           "opponent_ids": [
             11
@@ -3109,7 +3109,7 @@
             112
           ],
           "floor": 1.0,
-          "mean": 3.932,
+          "mean": 3.918,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -3118,7 +3118,7 @@
           "was_home": true
         },
         "13": {
-          "ceiling": 6.0,
+          "ceiling": 7.0,
           "event": 13,
           "expected_minutes": 77.295,
           "fixture_count": 1,
@@ -3127,7 +3127,7 @@
             122
           ],
           "floor": 1.0,
-          "mean": 3.19,
+          "mean": 3.318,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -3145,7 +3145,7 @@
             139
           ],
           "floor": 1.0,
-          "mean": 3.4,
+          "mean": 3.558,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -3154,7 +3154,7 @@
           "was_home": false
         },
         "15": {
-          "ceiling": 7.0,
+          "ceiling": 8.0,
           "event": 15,
           "expected_minutes": 77.295,
           "fixture_count": 1,
@@ -3163,7 +3163,7 @@
             142
           ],
           "floor": 1.0,
-          "mean": 3.728,
+          "mean": 3.816,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -3289,7 +3289,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 3.142,
+          "mean": 3.218,
           "opponent_id": 11,
           "opponent_ids": [
             11
@@ -3307,7 +3307,7 @@
             112
           ],
           "floor": 0.0,
-          "mean": 3.794,
+          "mean": 3.914,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -3325,7 +3325,7 @@
             122
           ],
           "floor": 0.0,
-          "mean": 3.034,
+          "mean": 3.05,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -3343,7 +3343,7 @@
             139
           ],
           "floor": 0.0,
-          "mean": 2.922,
+          "mean": 3.032,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -3361,7 +3361,7 @@
             142
           ],
           "floor": 0.0,
-          "mean": 3.546,
+          "mean": 3.618,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -3487,7 +3487,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 0.794,
+          "mean": 0.77,
           "opponent_id": 11,
           "opponent_ids": [
             11
@@ -3496,7 +3496,7 @@
           "was_home": false
         },
         "12": {
-          "ceiling": 5.0,
+          "ceiling": 6.0,
           "event": 12,
           "expected_minutes": 19.814,
           "fixture_count": 1,
@@ -3505,7 +3505,7 @@
             112
           ],
           "floor": 0.0,
-          "mean": 1.076,
+          "mean": 1.144,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -3514,7 +3514,7 @@
           "was_home": true
         },
         "13": {
-          "ceiling": 2.0,
+          "ceiling": 3.0,
           "event": 13,
           "expected_minutes": 19.814,
           "fixture_count": 1,
@@ -3523,7 +3523,7 @@
             122
           ],
           "floor": 0.0,
-          "mean": 0.658,
+          "mean": 0.85,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -3532,7 +3532,7 @@
           "was_home": false
         },
         "14": {
-          "ceiling": 2.0,
+          "ceiling": 4.0,
           "event": 14,
           "expected_minutes": 19.814,
           "fixture_count": 1,
@@ -3541,7 +3541,7 @@
             139
           ],
           "floor": 0.0,
-          "mean": 0.724,
+          "mean": 0.908,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -3559,7 +3559,7 @@
             142
           ],
           "floor": 0.0,
-          "mean": 0.912,
+          "mean": 1.052,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -3883,7 +3883,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 0.206,
+          "mean": 0.22,
           "opponent_id": 11,
           "opponent_ids": [
             11
@@ -3901,7 +3901,7 @@
             112
           ],
           "floor": 0.0,
-          "mean": 0.242,
+          "mean": 0.266,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -3919,7 +3919,7 @@
             122
           ],
           "floor": 0.0,
-          "mean": 0.2,
+          "mean": 0.17,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -3937,7 +3937,7 @@
             139
           ],
           "floor": 0.0,
-          "mean": 0.192,
+          "mean": 0.21,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -3955,7 +3955,7 @@
             142
           ],
           "floor": 0.0,
-          "mean": 0.282,
+          "mean": 0.278,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -4270,7 +4270,7 @@
       "effective_ownership": 0.0133,
       "gameweeks": {
         "11": {
-          "ceiling": 7.0,
+          "ceiling": 6.0,
           "event": 11,
           "expected_minutes": 70.237,
           "fixture_count": 1,
@@ -4279,7 +4279,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 3.152,
+          "mean": 2.886,
           "opponent_id": 11,
           "opponent_ids": [
             11
@@ -4297,7 +4297,7 @@
             112
           ],
           "floor": 0.0,
-          "mean": 3.394,
+          "mean": 3.646,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -4315,7 +4315,7 @@
             122
           ],
           "floor": 0.0,
-          "mean": 3.03,
+          "mean": 2.762,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -4333,7 +4333,7 @@
             139
           ],
           "floor": 0.0,
-          "mean": 2.808,
+          "mean": 2.94,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -4351,7 +4351,7 @@
             142
           ],
           "floor": 0.0,
-          "mean": 3.46,
+          "mean": 3.188,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -6952,7 +6952,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 1.416,
+          "mean": 1.556,
           "opponent_id": 14,
           "opponent_ids": [
             14
@@ -6970,7 +6970,7 @@
             118
           ],
           "floor": 0.0,
-          "mean": 1.884,
+          "mean": 1.756,
           "opponent_id": 4,
           "opponent_ids": [
             4
@@ -6979,7 +6979,7 @@
           "was_home": true
         },
         "13": {
-          "ceiling": 4.0,
+          "ceiling": 5.0,
           "event": 13,
           "expected_minutes": 33.644,
           "fixture_count": 1,
@@ -6988,7 +6988,7 @@
             129
           ],
           "floor": 0.0,
-          "mean": 1.44,
+          "mean": 1.542,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -7006,7 +7006,7 @@
             137
           ],
           "floor": 0.0,
-          "mean": 1.72,
+          "mean": 1.714,
           "opponent_id": 7,
           "opponent_ids": [
             7
@@ -7024,7 +7024,7 @@
             144
           ],
           "floor": 0.0,
-          "mean": 1.426,
+          "mean": 1.528,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -15558,91 +15558,91 @@
         "11": {
           "ceiling": 4.0,
           "event": 11,
-          "expected_minutes": 26.835,
+          "expected_minutes": 21.038,
           "fixture_count": 1,
           "fixture_id": 106,
           "fixture_ids": [
             106
           ],
           "floor": 0.0,
-          "mean": 1.332,
+          "mean": 1.09,
           "opponent_id": 5,
           "opponent_ids": [
             5
           ],
-          "start_probability": 0.293,
+          "start_probability": 0.22,
           "was_home": true
         },
         "12": {
-          "ceiling": 4.0,
+          "ceiling": 3.0,
           "event": 12,
-          "expected_minutes": 26.835,
+          "expected_minutes": 21.038,
           "fixture_count": 1,
           "fixture_id": 113,
           "fixture_ids": [
             113
           ],
           "floor": 0.0,
-          "mean": 1.146,
+          "mean": 0.944,
           "opponent_id": 8,
           "opponent_ids": [
             8
           ],
-          "start_probability": 0.293,
+          "start_probability": 0.22,
           "was_home": false
         },
         "13": {
-          "ceiling": 5.0,
+          "ceiling": 3.0,
           "event": 13,
-          "expected_minutes": 26.835,
+          "expected_minutes": 21.038,
           "fixture_count": 1,
           "fixture_id": 126,
           "fixture_ids": [
             126
           ],
           "floor": 0.0,
-          "mean": 1.478,
+          "mean": 0.936,
           "opponent_id": 18,
           "opponent_ids": [
             18
           ],
-          "start_probability": 0.293,
+          "start_probability": 0.22,
           "was_home": true
         },
         "14": {
-          "ceiling": 4.0,
+          "ceiling": 3.0,
           "event": 14,
-          "expected_minutes": 26.835,
+          "expected_minutes": 21.038,
           "fixture_count": 1,
           "fixture_id": 132,
           "fixture_ids": [
             132
           ],
           "floor": 0.0,
-          "mean": 1.118,
+          "mean": 0.914,
           "opponent_id": 3,
           "opponent_ids": [
             3
           ],
-          "start_probability": 0.293,
+          "start_probability": 0.22,
           "was_home": false
         },
         "15": {
-          "ceiling": 4.0,
+          "ceiling": 3.0,
           "event": 15,
-          "expected_minutes": 26.835,
+          "expected_minutes": 21.038,
           "fixture_count": 1,
           "fixture_id": 146,
           "fixture_ids": [
             146
           ],
           "floor": 0.0,
-          "mean": 1.342,
+          "mean": 1.092,
           "opponent_id": 19,
           "opponent_ids": [
             19
           ],
-          "start_probability": 0.293,
+          "start_probability": 0.22,
           "was_home": true
         }
       },
@@ -19129,7 +19129,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 0.07,
+          "mean": 0.058,
           "opponent_id": 5,
           "opponent_ids": [
             5
@@ -19147,7 +19147,7 @@
             113
           ],
           "floor": 0.0,
-          "mean": 0.068,
+          "mean": 0.058,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -19165,7 +19165,7 @@
             126
           ],
           "floor": 0.0,
-          "mean": 0.05,
+          "mean": 0.044,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -19183,7 +19183,7 @@
             132
           ],
           "floor": 0.0,
-          "mean": 0.022,
+          "mean": 0.038,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -19201,7 +19201,7 @@
             146
           ],
           "floor": 0.0,
-          "mean": 0.032,
+          "mean": 0.016,
           "opponent_id": 19,
           "opponent_ids": [
             19
@@ -19228,7 +19228,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 0.1,
+          "mean": 0.084,
           "opponent_id": 5,
           "opponent_ids": [
             5
@@ -19246,7 +19246,7 @@
             113
           ],
           "floor": 0.0,
-          "mean": 0.068,
+          "mean": 0.06,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -19264,7 +19264,7 @@
             126
           ],
           "floor": 0.0,
-          "mean": 0.126,
+          "mean": 0.058,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -19282,7 +19282,7 @@
             132
           ],
           "floor": 0.0,
-          "mean": 0.074,
+          "mean": 0.082,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -19300,7 +19300,7 @@
             146
           ],
           "floor": 0.0,
-          "mean": 0.084,
+          "mean": 0.062,
           "opponent_id": 19,
           "opponent_ids": [
             19
@@ -19525,7 +19525,7 @@
             106
           ],
           "floor": 1.0,
-          "mean": 4.182,
+          "mean": 4.114,
           "opponent_id": 5,
           "opponent_ids": [
             5
@@ -19534,7 +19534,7 @@
           "was_home": true
         },
         "12": {
-          "ceiling": 8.0,
+          "ceiling": 7.0,
           "event": 12,
           "expected_minutes": 77.204,
           "fixture_count": 1,
@@ -19543,7 +19543,7 @@
             113
           ],
           "floor": 0.0,
-          "mean": 3.454,
+          "mean": 3.3,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -19560,8 +19560,8 @@
           "fixture_ids": [
             126
           ],
-          "floor": 1.0,
-          "mean": 4.132,
+          "floor": 0.0,
+          "mean": 3.924,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -19570,7 +19570,7 @@
           "was_home": true
         },
         "14": {
-          "ceiling": 8.0,
+          "ceiling": 7.0,
           "event": 14,
           "expected_minutes": 77.204,
           "fixture_count": 1,
@@ -19579,7 +19579,7 @@
             132
           ],
           "floor": 0.0,
-          "mean": 3.262,
+          "mean": 3.228,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -19596,8 +19596,8 @@
           "fixture_ids": [
             146
           ],
-          "floor": 0.0,
-          "mean": 3.8,
+          "floor": 1.0,
+          "mean": 3.94,
           "opponent_id": 19,
           "opponent_ids": [
             19
@@ -19723,7 +19723,7 @@
             106
           ],
           "floor": 1.0,
-          "mean": 3.93,
+          "mean": 3.988,
           "opponent_id": 5,
           "opponent_ids": [
             5
@@ -19741,7 +19741,7 @@
             113
           ],
           "floor": 0.0,
-          "mean": 3.13,
+          "mean": 3.1,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -19759,7 +19759,7 @@
             126
           ],
           "floor": 0.0,
-          "mean": 3.708,
+          "mean": 3.578,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -19777,7 +19777,7 @@
             132
           ],
           "floor": 0.0,
-          "mean": 3.088,
+          "mean": 2.822,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -19794,8 +19794,8 @@
           "fixture_ids": [
             146
           ],
-          "floor": 1.0,
-          "mean": 3.72,
+          "floor": 0.0,
+          "mean": 3.678,
           "opponent_id": 19,
           "opponent_ids": [
             19
@@ -19920,8 +19920,8 @@
           "fixture_ids": [
             106
           ],
-          "floor": 1.0,
-          "mean": 3.284,
+          "floor": 0.0,
+          "mean": 3.178,
           "opponent_id": 5,
           "opponent_ids": [
             5
@@ -19939,7 +19939,7 @@
             113
           ],
           "floor": 0.0,
-          "mean": 2.51,
+          "mean": 2.424,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -19957,7 +19957,7 @@
             126
           ],
           "floor": 0.0,
-          "mean": 3.002,
+          "mean": 3.076,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -19975,7 +19975,7 @@
             132
           ],
           "floor": 0.0,
-          "mean": 2.464,
+          "mean": 2.26,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -19993,7 +19993,7 @@
             146
           ],
           "floor": 0.0,
-          "mean": 3.116,
+          "mean": 3.148,
           "opponent_id": 19,
           "opponent_ids": [
             19
@@ -20119,7 +20119,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 2.75,
+          "mean": 2.762,
           "opponent_id": 5,
           "opponent_ids": [
             5
@@ -20137,7 +20137,7 @@
             113
           ],
           "floor": 0.0,
-          "mean": 2.246,
+          "mean": 2.07,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -20155,7 +20155,7 @@
             126
           ],
           "floor": 0.0,
-          "mean": 2.58,
+          "mean": 2.7,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -20173,7 +20173,7 @@
             132
           ],
           "floor": 0.0,
-          "mean": 2.084,
+          "mean": 1.912,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -20191,7 +20191,7 @@
             146
           ],
           "floor": 0.0,
-          "mean": 2.452,
+          "mean": 2.512,
           "opponent_id": 19,
           "opponent_ids": [
             19
@@ -20317,7 +20317,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 0.126,
+          "mean": 0.118,
           "opponent_id": 5,
           "opponent_ids": [
             5
@@ -20335,7 +20335,7 @@
             113
           ],
           "floor": 0.0,
-          "mean": 0.124,
+          "mean": 0.098,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -20353,7 +20353,7 @@
             126
           ],
           "floor": 0.0,
-          "mean": 0.12,
+          "mean": 0.116,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -20371,7 +20371,7 @@
             132
           ],
           "floor": 0.0,
-          "mean": 0.094,
+          "mean": 0.132,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -20389,7 +20389,7 @@
             146
           ],
           "floor": 0.0,
-          "mean": 0.132,
+          "mean": 0.118,
           "opponent_id": 19,
           "opponent_ids": [
             19
@@ -20416,7 +20416,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 0.57,
+          "mean": 0.558,
           "opponent_id": 5,
           "opponent_ids": [
             5
@@ -20434,7 +20434,7 @@
             113
           ],
           "floor": 0.0,
-          "mean": 0.366,
+          "mean": 0.33,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -20452,7 +20452,7 @@
             126
           ],
           "floor": 0.0,
-          "mean": 0.354,
+          "mean": 0.432,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -20470,7 +20470,7 @@
             132
           ],
           "floor": 0.0,
-          "mean": 0.384,
+          "mean": 0.426,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -20488,7 +20488,7 @@
             146
           ],
           "floor": 0.0,
-          "mean": 0.356,
+          "mean": 0.39,
           "opponent_id": 19,
           "opponent_ids": [
             19
@@ -20506,7 +20506,7 @@
       "effective_ownership": 0.0667,
       "gameweeks": {
         "11": {
-          "ceiling": 8.0,
+          "ceiling": 7.0,
           "event": 11,
           "expected_minutes": 63.059,
           "fixture_count": 1,
@@ -20515,7 +20515,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 3.426,
+          "mean": 3.236,
           "opponent_id": 5,
           "opponent_ids": [
             5
@@ -20524,7 +20524,7 @@
           "was_home": true
         },
         "12": {
-          "ceiling": 6.0,
+          "ceiling": 7.0,
           "event": 12,
           "expected_minutes": 63.059,
           "fixture_count": 1,
@@ -20533,7 +20533,7 @@
             113
           ],
           "floor": 0.0,
-          "mean": 2.866,
+          "mean": 2.822,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -20542,7 +20542,7 @@
           "was_home": false
         },
         "13": {
-          "ceiling": 8.0,
+          "ceiling": 7.0,
           "event": 13,
           "expected_minutes": 63.059,
           "fixture_count": 1,
@@ -20551,7 +20551,7 @@
             126
           ],
           "floor": 0.0,
-          "mean": 3.34,
+          "mean": 3.258,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -20569,7 +20569,7 @@
             132
           ],
           "floor": 0.0,
-          "mean": 3.058,
+          "mean": 3.038,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -20587,7 +20587,7 @@
             146
           ],
           "floor": 0.0,
-          "mean": 3.074,
+          "mean": 3.042,
           "opponent_id": 19,
           "opponent_ids": [
             19
@@ -20713,7 +20713,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 0.228,
+          "mean": 0.252,
           "opponent_id": 5,
           "opponent_ids": [
             5
@@ -20731,7 +20731,7 @@
             113
           ],
           "floor": 0.0,
-          "mean": 0.214,
+          "mean": 0.22,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -20749,7 +20749,7 @@
             126
           ],
           "floor": 0.0,
-          "mean": 0.176,
+          "mean": 0.216,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -20767,7 +20767,7 @@
             132
           ],
           "floor": 0.0,
-          "mean": 0.174,
+          "mean": 0.248,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -20785,7 +20785,7 @@
             146
           ],
           "floor": 0.0,
-          "mean": 0.252,
+          "mean": 0.198,
           "opponent_id": 19,
           "opponent_ids": [
             19
@@ -20812,7 +20812,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 1.584,
+          "mean": 1.48,
           "opponent_id": 5,
           "opponent_ids": [
             5
@@ -20821,7 +20821,7 @@
           "was_home": true
         },
         "12": {
-          "ceiling": 3.0,
+          "ceiling": 4.0,
           "event": 12,
           "expected_minutes": 40.509,
           "fixture_count": 1,
@@ -20830,7 +20830,7 @@
             113
           ],
           "floor": 0.0,
-          "mean": 1.524,
+          "mean": 1.606,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -20848,7 +20848,7 @@
             126
           ],
           "floor": 0.0,
-          "mean": 1.446,
+          "mean": 1.468,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -20857,7 +20857,7 @@
           "was_home": true
         },
         "14": {
-          "ceiling": 4.0,
+          "ceiling": 3.0,
           "event": 14,
           "expected_minutes": 40.509,
           "fixture_count": 1,
@@ -20866,7 +20866,7 @@
             132
           ],
           "floor": 0.0,
-          "mean": 1.46,
+          "mean": 1.404,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -20884,7 +20884,7 @@
             146
           ],
           "floor": 0.0,
-          "mean": 1.536,
+          "mean": 1.672,
           "opponent_id": 19,
           "opponent_ids": [
             19
@@ -21010,7 +21010,7 @@
             106
           ],
           "floor": 1.0,
-          "mean": 2.968,
+          "mean": 2.9,
           "opponent_id": 5,
           "opponent_ids": [
             5
@@ -21028,7 +21028,7 @@
             113
           ],
           "floor": 1.0,
-          "mean": 2.688,
+          "mean": 2.626,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -21046,7 +21046,7 @@
             126
           ],
           "floor": 1.0,
-          "mean": 2.872,
+          "mean": 2.788,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -21055,7 +21055,7 @@
           "was_home": true
         },
         "14": {
-          "ceiling": 5.0,
+          "ceiling": 4.0,
           "event": 14,
           "expected_minutes": 76.555,
           "fixture_count": 1,
@@ -21064,7 +21064,7 @@
             132
           ],
           "floor": 1.0,
-          "mean": 2.74,
+          "mean": 2.642,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -21073,7 +21073,7 @@
           "was_home": false
         },
         "15": {
-          "ceiling": 6.0,
+          "ceiling": 5.0,
           "event": 15,
           "expected_minutes": 76.555,
           "fixture_count": 1,
@@ -21082,7 +21082,7 @@
             146
           ],
           "floor": 1.0,
-          "mean": 2.85,
+          "mean": 2.852,
           "opponent_id": 19,
           "opponent_ids": [
             19
@@ -21208,7 +21208,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 0.264,
+          "mean": 0.258,
           "opponent_id": 5,
           "opponent_ids": [
             5
@@ -21226,7 +21226,7 @@
             113
           ],
           "floor": 0.0,
-          "mean": 0.176,
+          "mean": 0.222,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -21244,7 +21244,7 @@
             126
           ],
           "floor": 0.0,
-          "mean": 0.252,
+          "mean": 0.216,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -21262,7 +21262,7 @@
             132
           ],
           "floor": 0.0,
-          "mean": 0.214,
+          "mean": 0.23,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -21280,7 +21280,7 @@
             146
           ],
           "floor": 0.0,
-          "mean": 0.222,
+          "mean": 0.236,
           "opponent_id": 19,
           "opponent_ids": [
             19
@@ -21406,7 +21406,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 0.152,
+          "mean": 0.162,
           "opponent_id": 5,
           "opponent_ids": [
             5
@@ -21424,7 +21424,7 @@
             113
           ],
           "floor": 0.0,
-          "mean": 0.166,
+          "mean": 0.176,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -21442,7 +21442,7 @@
             126
           ],
           "floor": 0.0,
-          "mean": 0.27,
+          "mean": 0.282,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -21460,7 +21460,7 @@
             132
           ],
           "floor": 0.0,
-          "mean": 0.178,
+          "mean": 0.206,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -21478,7 +21478,7 @@
             146
           ],
           "floor": 0.0,
-          "mean": 0.238,
+          "mean": 0.252,
           "opponent_id": 19,
           "opponent_ids": [
             19
@@ -21505,7 +21505,7 @@
             106
           ],
           "floor": 1.0,
-          "mean": 3.468,
+          "mean": 3.448,
           "opponent_id": 5,
           "opponent_ids": [
             5
@@ -21523,7 +21523,7 @@
             113
           ],
           "floor": 1.0,
-          "mean": 2.942,
+          "mean": 2.856,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -21541,7 +21541,7 @@
             126
           ],
           "floor": 1.0,
-          "mean": 3.124,
+          "mean": 3.116,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -21559,7 +21559,7 @@
             132
           ],
           "floor": 1.0,
-          "mean": 2.844,
+          "mean": 2.858,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -21577,7 +21577,7 @@
             146
           ],
           "floor": 1.0,
-          "mean": 3.046,
+          "mean": 3.07,
           "opponent_id": 19,
           "opponent_ids": [
             19
@@ -21721,7 +21721,7 @@
             113
           ],
           "floor": 0.0,
-          "mean": 0.234,
+          "mean": 0.232,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -21730,7 +21730,7 @@
           "was_home": false
         },
         "13": {
-          "ceiling": 1.0,
+          "ceiling": 0.0,
           "event": 13,
           "expected_minutes": 3.034,
           "fixture_count": 1,
@@ -21739,7 +21739,7 @@
             126
           ],
           "floor": 0.0,
-          "mean": 0.184,
+          "mean": 0.132,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -21757,7 +21757,7 @@
             132
           ],
           "floor": 0.0,
-          "mean": 0.232,
+          "mean": 0.182,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -24871,7 +24871,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 0.046,
+          "mean": 0.036,
           "opponent_id": 14,
           "opponent_ids": [
             14
@@ -24889,7 +24889,7 @@
             118
           ],
           "floor": 0.0,
-          "mean": 0.07,
+          "mean": 0.046,
           "opponent_id": 4,
           "opponent_ids": [
             4
@@ -24907,7 +24907,7 @@
             129
           ],
           "floor": 0.0,
-          "mean": 0.082,
+          "mean": 0.078,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -24925,7 +24925,7 @@
             137
           ],
           "floor": 0.0,
-          "mean": 0.096,
+          "mean": 0.084,
           "opponent_id": 7,
           "opponent_ids": [
             7
@@ -24943,7 +24943,7 @@
             144
           ],
           "floor": 0.0,
-          "mean": 0.052,
+          "mean": 0.036,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -25168,7 +25168,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 0.908,
+          "mean": 0.814,
           "opponent_id": 11,
           "opponent_ids": [
             11
@@ -25186,7 +25186,7 @@
             112
           ],
           "floor": 0.0,
-          "mean": 1.108,
+          "mean": 1.158,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -25195,7 +25195,7 @@
           "was_home": true
         },
         "13": {
-          "ceiling": 4.0,
+          "ceiling": 3.0,
           "event": 13,
           "expected_minutes": 19.997,
           "fixture_count": 1,
@@ -25204,7 +25204,7 @@
             122
           ],
           "floor": 0.0,
-          "mean": 1.036,
+          "mean": 0.832,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -25213,7 +25213,7 @@
           "was_home": false
         },
         "14": {
-          "ceiling": 3.0,
+          "ceiling": 4.0,
           "event": 14,
           "expected_minutes": 19.997,
           "fixture_count": 1,
@@ -25222,7 +25222,7 @@
             139
           ],
           "floor": 0.0,
-          "mean": 0.77,
+          "mean": 0.916,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -25231,7 +25231,7 @@
           "was_home": false
         },
         "15": {
-          "ceiling": 6.0,
+          "ceiling": 3.0,
           "event": 15,
           "expected_minutes": 19.997,
           "fixture_count": 1,
@@ -25240,7 +25240,7 @@
             142
           ],
           "floor": 0.0,
-          "mean": 1.14,
+          "mean": 0.876,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -26545,7 +26545,7 @@
       "effective_ownership": null,
       "gameweeks": {
         "11": {
-          "ceiling": 4.0,
+          "ceiling": 3.0,
           "event": 11,
           "expected_minutes": 12.457,
           "fixture_count": 1,
@@ -26554,7 +26554,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 0.972,
+          "mean": 0.952,
           "opponent_id": 5,
           "opponent_ids": [
             5
@@ -26572,7 +26572,7 @@
             113
           ],
           "floor": 0.0,
-          "mean": 0.736,
+          "mean": 0.772,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -26581,7 +26581,7 @@
           "was_home": false
         },
         "13": {
-          "ceiling": 2.0,
+          "ceiling": 3.0,
           "event": 13,
           "expected_minutes": 12.457,
           "fixture_count": 1,
@@ -26590,7 +26590,7 @@
             126
           ],
           "floor": 0.0,
-          "mean": 0.83,
+          "mean": 0.94,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -26608,7 +26608,7 @@
             132
           ],
           "floor": 0.0,
-          "mean": 0.786,
+          "mean": 0.742,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -26626,7 +26626,7 @@
             146
           ],
           "floor": 0.0,
-          "mean": 0.816,
+          "mean": 0.796,
           "opponent_id": 19,
           "opponent_ids": [
             19
@@ -27643,7 +27643,7 @@
             107
           ],
           "floor": 1.0,
-          "mean": 3.322,
+          "mean": 3.246,
           "opponent_id": 16,
           "opponent_ids": [
             16
@@ -27661,7 +27661,7 @@
             114
           ],
           "floor": 0.0,
-          "mean": 2.888,
+          "mean": 2.864,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -27679,7 +27679,7 @@
             127
           ],
           "floor": 1.0,
-          "mean": 3.66,
+          "mean": 3.46,
           "opponent_id": 20,
           "opponent_ids": [
             20
@@ -27688,7 +27688,7 @@
           "was_home": true
         },
         "14": {
-          "ceiling": 6.0,
+          "ceiling": 7.0,
           "event": 14,
           "expected_minutes": 79.179,
           "fixture_count": 1,
@@ -27696,8 +27696,8 @@
           "fixture_ids": [
             134
           ],
-          "floor": 0.0,
-          "mean": 2.652,
+          "floor": 1.0,
+          "mean": 2.794,
           "opponent_id": 6,
           "opponent_ids": [
             6
@@ -27715,7 +27715,7 @@
             148
           ],
           "floor": 1.0,
-          "mean": 3.506,
+          "mean": 3.48,
           "opponent_id": 13,
           "opponent_ids": [
             13
@@ -27742,7 +27742,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 0.116,
+          "mean": 0.144,
           "opponent_id": 16,
           "opponent_ids": [
             16
@@ -27760,7 +27760,7 @@
             114
           ],
           "floor": 0.0,
-          "mean": 0.098,
+          "mean": 0.106,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -27778,7 +27778,7 @@
             127
           ],
           "floor": 0.0,
-          "mean": 0.172,
+          "mean": 0.13,
           "opponent_id": 20,
           "opponent_ids": [
             20
@@ -27796,7 +27796,7 @@
             134
           ],
           "floor": 0.0,
-          "mean": 0.112,
+          "mean": 0.128,
           "opponent_id": 6,
           "opponent_ids": [
             6
@@ -27814,7 +27814,7 @@
             148
           ],
           "floor": 0.0,
-          "mean": 0.156,
+          "mean": 0.096,
           "opponent_id": 13,
           "opponent_ids": [
             13
@@ -27841,7 +27841,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 0.068,
+          "mean": 0.034,
           "opponent_id": 16,
           "opponent_ids": [
             16
@@ -27859,7 +27859,7 @@
             114
           ],
           "floor": 0.0,
-          "mean": 0.09,
+          "mean": 0.032,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -27877,7 +27877,7 @@
             127
           ],
           "floor": 0.0,
-          "mean": 0.06,
+          "mean": 0.032,
           "opponent_id": 20,
           "opponent_ids": [
             20
@@ -27895,7 +27895,7 @@
             134
           ],
           "floor": 0.0,
-          "mean": 0.034,
+          "mean": 0.078,
           "opponent_id": 6,
           "opponent_ids": [
             6
@@ -27913,7 +27913,7 @@
             148
           ],
           "floor": 0.0,
-          "mean": 0.07,
+          "mean": 0.082,
           "opponent_id": 13,
           "opponent_ids": [
             13
@@ -28138,7 +28138,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 0.076,
+          "mean": 0.058,
           "opponent_id": 16,
           "opponent_ids": [
             16
@@ -28156,7 +28156,7 @@
             114
           ],
           "floor": 0.0,
-          "mean": 0.04,
+          "mean": 0.044,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -28174,7 +28174,7 @@
             127
           ],
           "floor": 0.0,
-          "mean": 0.04,
+          "mean": 0.076,
           "opponent_id": 20,
           "opponent_ids": [
             20
@@ -28192,7 +28192,7 @@
             134
           ],
           "floor": 0.0,
-          "mean": 0.068,
+          "mean": 0.03,
           "opponent_id": 6,
           "opponent_ids": [
             6
@@ -28210,7 +28210,7 @@
             148
           ],
           "floor": 0.0,
-          "mean": 0.058,
+          "mean": 0.046,
           "opponent_id": 13,
           "opponent_ids": [
             13
@@ -28237,7 +28237,7 @@
             107
           ],
           "floor": 1.0,
-          "mean": 4.036,
+          "mean": 3.874,
           "opponent_id": 16,
           "opponent_ids": [
             16
@@ -28255,7 +28255,7 @@
             114
           ],
           "floor": 1.0,
-          "mean": 3.46,
+          "mean": 3.404,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -28273,7 +28273,7 @@
             127
           ],
           "floor": 1.0,
-          "mean": 4.5,
+          "mean": 4.35,
           "opponent_id": 20,
           "opponent_ids": [
             20
@@ -28291,7 +28291,7 @@
             134
           ],
           "floor": 1.0,
-          "mean": 3.054,
+          "mean": 3.236,
           "opponent_id": 6,
           "opponent_ids": [
             6
@@ -28309,7 +28309,7 @@
             148
           ],
           "floor": 1.0,
-          "mean": 4.212,
+          "mean": 4.158,
           "opponent_id": 13,
           "opponent_ids": [
             13
@@ -28327,93 +28327,93 @@
       "effective_ownership": null,
       "gameweeks": {
         "11": {
-          "ceiling": 2.0,
+          "ceiling": 3.0,
           "event": 11,
-          "expected_minutes": 15.793,
+          "expected_minutes": 20.359,
           "fixture_count": 1,
           "fixture_id": 107,
           "fixture_ids": [
             107
           ],
           "floor": 0.0,
-          "mean": 0.664,
+          "mean": 0.81,
           "opponent_id": 16,
           "opponent_ids": [
             16
           ],
-          "start_probability": 0.17,
+          "start_probability": 0.227,
           "was_home": true
         },
         "12": {
           "ceiling": 2.0,
           "event": 12,
-          "expected_minutes": 15.793,
+          "expected_minutes": 20.359,
           "fixture_count": 1,
           "fixture_id": 114,
           "fixture_ids": [
             114
           ],
           "floor": 0.0,
-          "mean": 0.542,
+          "mean": 0.662,
           "opponent_id": 9,
           "opponent_ids": [
             9
           ],
-          "start_probability": 0.17,
+          "start_probability": 0.227,
           "was_home": false
         },
         "13": {
-          "ceiling": 2.0,
+          "ceiling": 4.0,
           "event": 13,
-          "expected_minutes": 15.793,
+          "expected_minutes": 20.359,
           "fixture_count": 1,
           "fixture_id": 127,
           "fixture_ids": [
             127
           ],
           "floor": 0.0,
-          "mean": 0.742,
+          "mean": 0.952,
           "opponent_id": 20,
           "opponent_ids": [
             20
           ],
-          "start_probability": 0.17,
+          "start_probability": 0.227,
           "was_home": true
         },
         "14": {
           "ceiling": 2.0,
           "event": 14,
-          "expected_minutes": 15.793,
+          "expected_minutes": 20.359,
           "fixture_count": 1,
           "fixture_id": 134,
           "fixture_ids": [
             134
           ],
           "floor": 0.0,
-          "mean": 0.674,
+          "mean": 0.722,
           "opponent_id": 6,
           "opponent_ids": [
             6
           ],
-          "start_probability": 0.17,
+          "start_probability": 0.227,
           "was_home": false
         },
         "15": {
-          "ceiling": 2.0,
+          "ceiling": 3.0,
           "event": 15,
-          "expected_minutes": 15.793,
+          "expected_minutes": 20.359,
           "fixture_count": 1,
           "fixture_id": 148,
           "fixture_ids": [
             148
           ],
           "floor": 0.0,
-          "mean": 0.72,
+          "mean": 0.896,
           "opponent_id": 13,
           "opponent_ids": [
             13
           ],
-          "start_probability": 0.17,
+          "start_probability": 0.227,
           "was_home": true
         }
       },
@@ -28426,7 +28426,7 @@
       "effective_ownership": null,
       "gameweeks": {
         "11": {
-          "ceiling": 7.0,
+          "ceiling": 6.0,
           "event": 11,
           "expected_minutes": 71.844,
           "fixture_count": 1,
@@ -28435,7 +28435,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 3.01,
+          "mean": 2.826,
           "opponent_id": 16,
           "opponent_ids": [
             16
@@ -28453,7 +28453,7 @@
             114
           ],
           "floor": 0.0,
-          "mean": 2.474,
+          "mean": 2.46,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -28471,7 +28471,7 @@
             127
           ],
           "floor": 0.0,
-          "mean": 3.474,
+          "mean": 3.406,
           "opponent_id": 20,
           "opponent_ids": [
             20
@@ -28489,7 +28489,7 @@
             134
           ],
           "floor": 0.0,
-          "mean": 2.218,
+          "mean": 2.456,
           "opponent_id": 6,
           "opponent_ids": [
             6
@@ -28498,7 +28498,7 @@
           "was_home": false
         },
         "15": {
-          "ceiling": 7.0,
+          "ceiling": 6.0,
           "event": 15,
           "expected_minutes": 71.844,
           "fixture_count": 1,
@@ -28507,7 +28507,7 @@
             148
           ],
           "floor": 0.0,
-          "mean": 3.492,
+          "mean": 3.206,
           "opponent_id": 13,
           "opponent_ids": [
             13
@@ -28525,7 +28525,7 @@
       "effective_ownership": null,
       "gameweeks": {
         "11": {
-          "ceiling": 1.0,
+          "ceiling": 2.0,
           "event": 11,
           "expected_minutes": 10.961,
           "fixture_count": 1,
@@ -28534,7 +28534,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 0.486,
+          "mean": 0.544,
           "opponent_id": 16,
           "opponent_ids": [
             16
@@ -28552,7 +28552,7 @@
             114
           ],
           "floor": 0.0,
-          "mean": 0.568,
+          "mean": 0.482,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -28561,7 +28561,7 @@
           "was_home": false
         },
         "13": {
-          "ceiling": 1.0,
+          "ceiling": 2.0,
           "event": 13,
           "expected_minutes": 10.961,
           "fixture_count": 1,
@@ -28570,7 +28570,7 @@
             127
           ],
           "floor": 0.0,
-          "mean": 0.482,
+          "mean": 0.646,
           "opponent_id": 20,
           "opponent_ids": [
             20
@@ -28588,7 +28588,7 @@
             134
           ],
           "floor": 0.0,
-          "mean": 0.406,
+          "mean": 0.424,
           "opponent_id": 6,
           "opponent_ids": [
             6
@@ -28606,7 +28606,7 @@
             148
           ],
           "floor": 0.0,
-          "mean": 0.46,
+          "mean": 0.634,
           "opponent_id": 13,
           "opponent_ids": [
             13
@@ -28831,7 +28831,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 0.094,
+          "mean": 0.136,
           "opponent_id": 16,
           "opponent_ids": [
             16
@@ -28849,7 +28849,7 @@
             114
           ],
           "floor": 0.0,
-          "mean": 0.106,
+          "mean": 0.124,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -28858,7 +28858,7 @@
           "was_home": false
         },
         "13": {
-          "ceiling": 1.0,
+          "ceiling": 0.0,
           "event": 13,
           "expected_minutes": 2.848,
           "fixture_count": 1,
@@ -28867,7 +28867,7 @@
             127
           ],
           "floor": 0.0,
-          "mean": 0.26,
+          "mean": 0.186,
           "opponent_id": 20,
           "opponent_ids": [
             20
@@ -28885,7 +28885,7 @@
             134
           ],
           "floor": 0.0,
-          "mean": 0.082,
+          "mean": 0.054,
           "opponent_id": 6,
           "opponent_ids": [
             6
@@ -28903,7 +28903,7 @@
             148
           ],
           "floor": 0.0,
-          "mean": 0.178,
+          "mean": 0.152,
           "opponent_id": 13,
           "opponent_ids": [
             13
@@ -28930,7 +28930,7 @@
             107
           ],
           "floor": 1.0,
-          "mean": 3.876,
+          "mean": 3.792,
           "opponent_id": 16,
           "opponent_ids": [
             16
@@ -28948,7 +28948,7 @@
             114
           ],
           "floor": 1.0,
-          "mean": 3.242,
+          "mean": 3.454,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -28966,7 +28966,7 @@
             127
           ],
           "floor": 1.0,
-          "mean": 4.3,
+          "mean": 4.186,
           "opponent_id": 20,
           "opponent_ids": [
             20
@@ -28984,7 +28984,7 @@
             134
           ],
           "floor": 0.0,
-          "mean": 3.042,
+          "mean": 3.124,
           "opponent_id": 6,
           "opponent_ids": [
             6
@@ -29002,7 +29002,7 @@
             148
           ],
           "floor": 1.0,
-          "mean": 4.494,
+          "mean": 4.228,
           "opponent_id": 13,
           "opponent_ids": [
             13
@@ -29128,7 +29128,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 0.616,
+          "mean": 0.596,
           "opponent_id": 16,
           "opponent_ids": [
             16
@@ -29146,7 +29146,7 @@
             114
           ],
           "floor": 0.0,
-          "mean": 0.58,
+          "mean": 0.564,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -29155,7 +29155,7 @@
           "was_home": false
         },
         "13": {
-          "ceiling": 1.0,
+          "ceiling": 3.0,
           "event": 13,
           "expected_minutes": 12.667,
           "fixture_count": 1,
@@ -29164,7 +29164,7 @@
             127
           ],
           "floor": 0.0,
-          "mean": 0.5,
+          "mean": 0.77,
           "opponent_id": 20,
           "opponent_ids": [
             20
@@ -29182,7 +29182,7 @@
             134
           ],
           "floor": 0.0,
-          "mean": 0.446,
+          "mean": 0.532,
           "opponent_id": 6,
           "opponent_ids": [
             6
@@ -29200,7 +29200,7 @@
             148
           ],
           "floor": 0.0,
-          "mean": 0.712,
+          "mean": 0.546,
           "opponent_id": 13,
           "opponent_ids": [
             13
@@ -29325,8 +29325,8 @@
           "fixture_ids": [
             107
           ],
-          "floor": 2.0,
-          "mean": 4.05,
+          "floor": 1.0,
+          "mean": 4.042,
           "opponent_id": 16,
           "opponent_ids": [
             16
@@ -29335,7 +29335,7 @@
           "was_home": true
         },
         "12": {
-          "ceiling": 7.0,
+          "ceiling": 8.0,
           "event": 12,
           "expected_minutes": 80.499,
           "fixture_count": 1,
@@ -29344,7 +29344,7 @@
             114
           ],
           "floor": 1.0,
-          "mean": 3.762,
+          "mean": 3.846,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -29353,7 +29353,7 @@
           "was_home": false
         },
         "13": {
-          "ceiling": 8.0,
+          "ceiling": 9.0,
           "event": 13,
           "expected_minutes": 80.499,
           "fixture_count": 1,
@@ -29361,8 +29361,8 @@
           "fixture_ids": [
             127
           ],
-          "floor": 1.0,
-          "mean": 4.268,
+          "floor": 2.0,
+          "mean": 4.536,
           "opponent_id": 20,
           "opponent_ids": [
             20
@@ -29380,7 +29380,7 @@
             134
           ],
           "floor": 2.0,
-          "mean": 3.716,
+          "mean": 3.748,
           "opponent_id": 6,
           "opponent_ids": [
             6
@@ -29397,8 +29397,8 @@
           "fixture_ids": [
             148
           ],
-          "floor": 1.0,
-          "mean": 4.126,
+          "floor": 2.0,
+          "mean": 4.3,
           "opponent_id": 13,
           "opponent_ids": [
             13
@@ -29416,93 +29416,93 @@
       "effective_ownership": 0.0133,
       "gameweeks": {
         "11": {
-          "ceiling": 7.0,
+          "ceiling": 6.0,
           "event": 11,
-          "expected_minutes": 58.696,
+          "expected_minutes": 44.934,
           "fixture_count": 1,
           "fixture_id": 107,
           "fixture_ids": [
             107
           ],
           "floor": 0.0,
-          "mean": 3.022,
+          "mean": 2.086,
           "opponent_id": 16,
           "opponent_ids": [
             16
           ],
-          "start_probability": 0.696,
+          "start_probability": 0.522,
           "was_home": true
         },
         "12": {
-          "ceiling": 7.0,
+          "ceiling": 6.0,
           "event": 12,
-          "expected_minutes": 58.696,
+          "expected_minutes": 44.934,
           "fixture_count": 1,
           "fixture_id": 114,
           "fixture_ids": [
             114
           ],
           "floor": 0.0,
-          "mean": 2.644,
+          "mean": 2.098,
           "opponent_id": 9,
           "opponent_ids": [
             9
           ],
-          "start_probability": 0.696,
+          "start_probability": 0.522,
           "was_home": false
         },
         "13": {
-          "ceiling": 8.0,
+          "ceiling": 7.0,
           "event": 13,
-          "expected_minutes": 58.696,
+          "expected_minutes": 44.934,
           "fixture_count": 1,
           "fixture_id": 127,
           "fixture_ids": [
             127
           ],
           "floor": 0.0,
-          "mean": 3.458,
+          "mean": 2.594,
           "opponent_id": 20,
           "opponent_ids": [
             20
           ],
-          "start_probability": 0.696,
+          "start_probability": 0.522,
           "was_home": true
         },
         "14": {
           "ceiling": 6.0,
           "event": 14,
-          "expected_minutes": 58.696,
+          "expected_minutes": 44.934,
           "fixture_count": 1,
           "fixture_id": 134,
           "fixture_ids": [
             134
           ],
           "floor": 0.0,
-          "mean": 2.578,
+          "mean": 2.038,
           "opponent_id": 6,
           "opponent_ids": [
             6
           ],
-          "start_probability": 0.696,
+          "start_probability": 0.522,
           "was_home": false
         },
         "15": {
-          "ceiling": 8.0,
+          "ceiling": 7.0,
           "event": 15,
-          "expected_minutes": 58.696,
+          "expected_minutes": 44.934,
           "fixture_count": 1,
           "fixture_id": 148,
           "fixture_ids": [
             148
           ],
           "floor": 0.0,
-          "mean": 3.098,
+          "mean": 2.584,
           "opponent_id": 13,
           "opponent_ids": [
             13
           ],
-          "start_probability": 0.696,
+          "start_probability": 0.522,
           "was_home": true
         }
       },
@@ -29524,7 +29524,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 3.114,
+          "mean": 3.498,
           "opponent_id": 16,
           "opponent_ids": [
             16
@@ -29542,7 +29542,7 @@
             114
           ],
           "floor": 0.0,
-          "mean": 2.834,
+          "mean": 2.718,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -29560,7 +29560,7 @@
             127
           ],
           "floor": 0.0,
-          "mean": 3.536,
+          "mean": 3.654,
           "opponent_id": 20,
           "opponent_ids": [
             20
@@ -29578,7 +29578,7 @@
             134
           ],
           "floor": 0.0,
-          "mean": 2.774,
+          "mean": 2.75,
           "opponent_id": 6,
           "opponent_ids": [
             6
@@ -29596,7 +29596,7 @@
             148
           ],
           "floor": 0.0,
-          "mean": 3.704,
+          "mean": 3.25,
           "opponent_id": 13,
           "opponent_ids": [
             13
@@ -29614,7 +29614,7 @@
       "effective_ownership": null,
       "gameweeks": {
         "11": {
-          "ceiling": 2.0,
+          "ceiling": 3.0,
           "event": 11,
           "expected_minutes": 13.501,
           "fixture_count": 1,
@@ -29623,7 +29623,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 0.674,
+          "mean": 0.74,
           "opponent_id": 16,
           "opponent_ids": [
             16
@@ -29641,7 +29641,7 @@
             114
           ],
           "floor": 0.0,
-          "mean": 0.638,
+          "mean": 0.6,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -29650,7 +29650,7 @@
           "was_home": false
         },
         "13": {
-          "ceiling": 2.0,
+          "ceiling": 3.0,
           "event": 13,
           "expected_minutes": 13.501,
           "fixture_count": 1,
@@ -29659,7 +29659,7 @@
             127
           ],
           "floor": 0.0,
-          "mean": 0.744,
+          "mean": 0.764,
           "opponent_id": 20,
           "opponent_ids": [
             20
@@ -29677,7 +29677,7 @@
             134
           ],
           "floor": 0.0,
-          "mean": 0.514,
+          "mean": 0.618,
           "opponent_id": 6,
           "opponent_ids": [
             6
@@ -29686,7 +29686,7 @@
           "was_home": false
         },
         "15": {
-          "ceiling": 3.0,
+          "ceiling": 2.0,
           "event": 15,
           "expected_minutes": 13.501,
           "fixture_count": 1,
@@ -29695,7 +29695,7 @@
             148
           ],
           "floor": 0.0,
-          "mean": 0.86,
+          "mean": 0.636,
           "opponent_id": 13,
           "opponent_ids": [
             13
@@ -29812,7 +29812,7 @@
       "effective_ownership": null,
       "gameweeks": {
         "11": {
-          "ceiling": 2.0,
+          "ceiling": 1.0,
           "event": 11,
           "expected_minutes": 11.21,
           "fixture_count": 1,
@@ -29821,7 +29821,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 0.686,
+          "mean": 0.516,
           "opponent_id": 16,
           "opponent_ids": [
             16
@@ -29839,7 +29839,7 @@
             114
           ],
           "floor": 0.0,
-          "mean": 0.664,
+          "mean": 0.612,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -29857,7 +29857,7 @@
             127
           ],
           "floor": 0.0,
-          "mean": 0.618,
+          "mean": 0.556,
           "opponent_id": 20,
           "opponent_ids": [
             20
@@ -29875,7 +29875,7 @@
             134
           ],
           "floor": 0.0,
-          "mean": 0.546,
+          "mean": 0.564,
           "opponent_id": 6,
           "opponent_ids": [
             6
@@ -29884,7 +29884,7 @@
           "was_home": false
         },
         "15": {
-          "ceiling": 1.0,
+          "ceiling": 2.0,
           "event": 15,
           "expected_minutes": 11.21,
           "fixture_count": 1,
@@ -29893,7 +29893,7 @@
             148
           ],
           "floor": 0.0,
-          "mean": 0.598,
+          "mean": 0.798,
           "opponent_id": 13,
           "opponent_ids": [
             13
@@ -29920,7 +29920,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 1.29,
+          "mean": 1.354,
           "opponent_id": 16,
           "opponent_ids": [
             16
@@ -29938,7 +29938,7 @@
             114
           ],
           "floor": 0.0,
-          "mean": 1.236,
+          "mean": 1.234,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -29947,7 +29947,7 @@
           "was_home": false
         },
         "13": {
-          "ceiling": 4.0,
+          "ceiling": 5.0,
           "event": 13,
           "expected_minutes": 27.331,
           "fixture_count": 1,
@@ -29956,7 +29956,7 @@
             127
           ],
           "floor": 0.0,
-          "mean": 1.162,
+          "mean": 1.408,
           "opponent_id": 20,
           "opponent_ids": [
             20
@@ -29974,7 +29974,7 @@
             134
           ],
           "floor": 0.0,
-          "mean": 1.106,
+          "mean": 1.116,
           "opponent_id": 6,
           "opponent_ids": [
             6
@@ -29983,7 +29983,7 @@
           "was_home": false
         },
         "15": {
-          "ceiling": 4.0,
+          "ceiling": 5.0,
           "event": 15,
           "expected_minutes": 27.331,
           "fixture_count": 1,
@@ -29992,7 +29992,7 @@
             148
           ],
           "floor": 0.0,
-          "mean": 1.276,
+          "mean": 1.516,
           "opponent_id": 13,
           "opponent_ids": [
             13
@@ -30019,7 +30019,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 3.124,
+          "mean": 3.146,
           "opponent_id": 16,
           "opponent_ids": [
             16
@@ -30037,7 +30037,7 @@
             114
           ],
           "floor": 0.0,
-          "mean": 2.914,
+          "mean": 2.912,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -30055,7 +30055,7 @@
             127
           ],
           "floor": 0.0,
-          "mean": 3.13,
+          "mean": 3.246,
           "opponent_id": 20,
           "opponent_ids": [
             20
@@ -30073,7 +30073,7 @@
             134
           ],
           "floor": 0.0,
-          "mean": 2.784,
+          "mean": 2.89,
           "opponent_id": 6,
           "opponent_ids": [
             6
@@ -30091,7 +30091,7 @@
             148
           ],
           "floor": 0.0,
-          "mean": 3.236,
+          "mean": 3.332,
           "opponent_id": 13,
           "opponent_ids": [
             13
@@ -30217,7 +30217,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 0.212,
+          "mean": 0.234,
           "opponent_id": 16,
           "opponent_ids": [
             16
@@ -30235,7 +30235,7 @@
             114
           ],
           "floor": 0.0,
-          "mean": 0.224,
+          "mean": 0.192,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -30253,7 +30253,7 @@
             127
           ],
           "floor": 0.0,
-          "mean": 0.212,
+          "mean": 0.274,
           "opponent_id": 20,
           "opponent_ids": [
             20
@@ -30271,7 +30271,7 @@
             134
           ],
           "floor": 0.0,
-          "mean": 0.216,
+          "mean": 0.204,
           "opponent_id": 6,
           "opponent_ids": [
             6
@@ -30289,7 +30289,7 @@
             148
           ],
           "floor": 0.0,
-          "mean": 0.248,
+          "mean": 0.278,
           "opponent_id": 13,
           "opponent_ids": [
             13
@@ -30316,7 +30316,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 0.746,
+          "mean": 0.65,
           "opponent_id": 16,
           "opponent_ids": [
             16
@@ -30334,7 +30334,7 @@
             114
           ],
           "floor": 0.0,
-          "mean": 0.634,
+          "mean": 0.63,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -30352,7 +30352,7 @@
             127
           ],
           "floor": 0.0,
-          "mean": 0.62,
+          "mean": 0.68,
           "opponent_id": 20,
           "opponent_ids": [
             20
@@ -30370,7 +30370,7 @@
             134
           ],
           "floor": 0.0,
-          "mean": 0.62,
+          "mean": 0.594,
           "opponent_id": 6,
           "opponent_ids": [
             6
@@ -30379,7 +30379,7 @@
           "was_home": false
         },
         "15": {
-          "ceiling": 2.0,
+          "ceiling": 3.0,
           "event": 15,
           "expected_minutes": 12.198,
           "fixture_count": 1,
@@ -30388,7 +30388,7 @@
             148
           ],
           "floor": 0.0,
-          "mean": 0.634,
+          "mean": 0.768,
           "opponent_id": 13,
           "opponent_ids": [
             13
@@ -30514,7 +30514,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 1.976,
+          "mean": 2.01,
           "opponent_id": 16,
           "opponent_ids": [
             16
@@ -30523,7 +30523,7 @@
           "was_home": true
         },
         "12": {
-          "ceiling": 4.0,
+          "ceiling": 5.0,
           "event": 12,
           "expected_minutes": 43.504,
           "fixture_count": 1,
@@ -30532,7 +30532,7 @@
             114
           ],
           "floor": 0.0,
-          "mean": 1.706,
+          "mean": 1.818,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -30550,7 +30550,7 @@
             127
           ],
           "floor": 0.0,
-          "mean": 2.052,
+          "mean": 2.108,
           "opponent_id": 20,
           "opponent_ids": [
             20
@@ -30568,7 +30568,7 @@
             134
           ],
           "floor": 0.0,
-          "mean": 1.752,
+          "mean": 1.602,
           "opponent_id": 6,
           "opponent_ids": [
             6
@@ -30586,7 +30586,7 @@
             148
           ],
           "floor": 0.0,
-          "mean": 2.262,
+          "mean": 2.136,
           "opponent_id": 13,
           "opponent_ids": [
             13
@@ -30613,7 +30613,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 0.182,
+          "mean": 0.196,
           "opponent_id": 16,
           "opponent_ids": [
             16
@@ -30631,7 +30631,7 @@
             114
           ],
           "floor": 0.0,
-          "mean": 0.166,
+          "mean": 0.19,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -30649,7 +30649,7 @@
             127
           ],
           "floor": 0.0,
-          "mean": 0.2,
+          "mean": 0.27,
           "opponent_id": 20,
           "opponent_ids": [
             20
@@ -30667,7 +30667,7 @@
             134
           ],
           "floor": 0.0,
-          "mean": 0.176,
+          "mean": 0.196,
           "opponent_id": 6,
           "opponent_ids": [
             6
@@ -30685,7 +30685,7 @@
             148
           ],
           "floor": 0.0,
-          "mean": 0.174,
+          "mean": 0.196,
           "opponent_id": 13,
           "opponent_ids": [
             13
@@ -30711,8 +30711,8 @@
           "fixture_ids": [
             107
           ],
-          "floor": 0.0,
-          "mean": 4.034,
+          "floor": 1.0,
+          "mean": 4.014,
           "opponent_id": 16,
           "opponent_ids": [
             16
@@ -30721,7 +30721,7 @@
           "was_home": true
         },
         "12": {
-          "ceiling": 7.0,
+          "ceiling": 8.0,
           "event": 12,
           "expected_minutes": 73.049,
           "fixture_count": 1,
@@ -30730,7 +30730,7 @@
             114
           ],
           "floor": 0.0,
-          "mean": 3.64,
+          "mean": 3.76,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -30748,7 +30748,7 @@
             127
           ],
           "floor": 1.0,
-          "mean": 4.632,
+          "mean": 4.858,
           "opponent_id": 20,
           "opponent_ids": [
             20
@@ -30766,7 +30766,7 @@
             134
           ],
           "floor": 1.0,
-          "mean": 3.63,
+          "mean": 3.474,
           "opponent_id": 6,
           "opponent_ids": [
             6
@@ -30783,8 +30783,8 @@
           "fixture_ids": [
             148
           ],
-          "floor": 1.0,
-          "mean": 4.642,
+          "floor": 0.0,
+          "mean": 4.52,
           "opponent_id": 13,
           "opponent_ids": [
             13
@@ -31009,7 +31009,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 0.616,
+          "mean": 0.62,
           "opponent_id": 16,
           "opponent_ids": [
             16
@@ -31027,7 +31027,7 @@
             114
           ],
           "floor": 0.0,
-          "mean": 0.652,
+          "mean": 0.642,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -31045,7 +31045,7 @@
             127
           ],
           "floor": 0.0,
-          "mean": 0.718,
+          "mean": 0.706,
           "opponent_id": 20,
           "opponent_ids": [
             20
@@ -31063,7 +31063,7 @@
             134
           ],
           "floor": 0.0,
-          "mean": 0.618,
+          "mean": 0.726,
           "opponent_id": 6,
           "opponent_ids": [
             6
@@ -31081,7 +31081,7 @@
             148
           ],
           "floor": 0.0,
-          "mean": 0.682,
+          "mean": 0.708,
           "opponent_id": 13,
           "opponent_ids": [
             13
@@ -31108,7 +31108,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 0.268,
+          "mean": 0.262,
           "opponent_id": 16,
           "opponent_ids": [
             16
@@ -31126,7 +31126,7 @@
             114
           ],
           "floor": 0.0,
-          "mean": 0.204,
+          "mean": 0.234,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -31144,7 +31144,7 @@
             127
           ],
           "floor": 0.0,
-          "mean": 0.27,
+          "mean": 0.296,
           "opponent_id": 20,
           "opponent_ids": [
             20
@@ -31162,7 +31162,7 @@
             134
           ],
           "floor": 0.0,
-          "mean": 0.186,
+          "mean": 0.21,
           "opponent_id": 6,
           "opponent_ids": [
             6
@@ -31180,7 +31180,7 @@
             148
           ],
           "floor": 0.0,
-          "mean": 0.242,
+          "mean": 0.286,
           "opponent_id": 13,
           "opponent_ids": [
             13
@@ -34474,7 +34474,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 2.63,
+          "mean": 2.508,
           "opponent_id": 14,
           "opponent_ids": [
             14
@@ -34492,7 +34492,7 @@
             118
           ],
           "floor": 1.0,
-          "mean": 3.594,
+          "mean": 3.464,
           "opponent_id": 4,
           "opponent_ids": [
             4
@@ -34510,7 +34510,7 @@
             129
           ],
           "floor": 0.0,
-          "mean": 2.868,
+          "mean": 2.8,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -34528,7 +34528,7 @@
             137
           ],
           "floor": 1.0,
-          "mean": 3.624,
+          "mean": 3.8,
           "opponent_id": 7,
           "opponent_ids": [
             7
@@ -34546,7 +34546,7 @@
             144
           ],
           "floor": 0.0,
-          "mean": 2.734,
+          "mean": 2.972,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -34672,7 +34672,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 0.042,
+          "mean": 0.06,
           "opponent_id": 14,
           "opponent_ids": [
             14
@@ -34690,7 +34690,7 @@
             118
           ],
           "floor": 0.0,
-          "mean": 0.06,
+          "mean": 0.108,
           "opponent_id": 4,
           "opponent_ids": [
             4
@@ -34708,7 +34708,7 @@
             129
           ],
           "floor": 0.0,
-          "mean": 0.052,
+          "mean": 0.032,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -34726,7 +34726,7 @@
             137
           ],
           "floor": 0.0,
-          "mean": 0.07,
+          "mean": 0.024,
           "opponent_id": 7,
           "opponent_ids": [
             7
@@ -34744,7 +34744,7 @@
             144
           ],
           "floor": 0.0,
-          "mean": 0.038,
+          "mean": 0.052,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -34762,93 +34762,93 @@
       "effective_ownership": null,
       "gameweeks": {
         "11": {
-          "ceiling": 3.0,
+          "ceiling": 4.0,
           "event": 11,
-          "expected_minutes": 16.429,
+          "expected_minutes": 20.69,
           "fixture_count": 1,
           "fixture_id": 107,
           "fixture_ids": [
             107
           ],
           "floor": 0.0,
-          "mean": 0.79,
+          "mean": 1.098,
           "opponent_id": 14,
           "opponent_ids": [
             14
           ],
-          "start_probability": 0.162,
+          "start_probability": 0.216,
           "was_home": false
         },
         "12": {
-          "ceiling": 4.0,
+          "ceiling": 5.0,
           "event": 12,
-          "expected_minutes": 16.429,
+          "expected_minutes": 20.69,
           "fixture_count": 1,
           "fixture_id": 118,
           "fixture_ids": [
             118
           ],
           "floor": 0.0,
-          "mean": 1.014,
+          "mean": 1.44,
           "opponent_id": 4,
           "opponent_ids": [
             4
           ],
-          "start_probability": 0.162,
+          "start_probability": 0.216,
           "was_home": true
         },
         "13": {
-          "ceiling": 3.0,
+          "ceiling": 4.0,
           "event": 13,
-          "expected_minutes": 16.429,
+          "expected_minutes": 20.69,
           "fixture_count": 1,
           "fixture_id": 129,
           "fixture_ids": [
             129
           ],
           "floor": 0.0,
-          "mean": 0.968,
+          "mean": 1.106,
           "opponent_id": 17,
           "opponent_ids": [
             17
           ],
-          "start_probability": 0.162,
+          "start_probability": 0.216,
           "was_home": false
         },
         "14": {
-          "ceiling": 4.0,
+          "ceiling": 6.0,
           "event": 14,
-          "expected_minutes": 16.429,
+          "expected_minutes": 20.69,
           "fixture_count": 1,
           "fixture_id": 137,
           "fixture_ids": [
             137
           ],
           "floor": 0.0,
-          "mean": 1.226,
+          "mean": 1.514,
           "opponent_id": 7,
           "opponent_ids": [
             7
           ],
-          "start_probability": 0.162,
+          "start_probability": 0.216,
           "was_home": true
         },
         "15": {
-          "ceiling": 3.0,
+          "ceiling": 5.0,
           "event": 15,
-          "expected_minutes": 16.429,
+          "expected_minutes": 20.69,
           "fixture_count": 1,
           "fixture_id": 144,
           "fixture_ids": [
             144
           ],
           "floor": 0.0,
-          "mean": 0.95,
+          "mean": 1.266,
           "opponent_id": 8,
           "opponent_ids": [
             8
           ],
-          "start_probability": 0.162,
+          "start_probability": 0.216,
           "was_home": false
         }
       },
@@ -34870,7 +34870,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 0.188,
+          "mean": 0.206,
           "opponent_id": 14,
           "opponent_ids": [
             14
@@ -34879,7 +34879,7 @@
           "was_home": false
         },
         "12": {
-          "ceiling": 0.0,
+          "ceiling": 1.0,
           "event": 12,
           "expected_minutes": 4.613,
           "fixture_count": 1,
@@ -34888,7 +34888,7 @@
             118
           ],
           "floor": 0.0,
-          "mean": 0.19,
+          "mean": 0.256,
           "opponent_id": 4,
           "opponent_ids": [
             4
@@ -34906,7 +34906,7 @@
             129
           ],
           "floor": 0.0,
-          "mean": 0.2,
+          "mean": 0.096,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -34924,7 +34924,7 @@
             137
           ],
           "floor": 0.0,
-          "mean": 0.202,
+          "mean": 0.21,
           "opponent_id": 7,
           "opponent_ids": [
             7
@@ -34942,7 +34942,7 @@
             144
           ],
           "floor": 0.0,
-          "mean": 0.254,
+          "mean": 0.186,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -34969,7 +34969,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 2.282,
+          "mean": 2.144,
           "opponent_id": 14,
           "opponent_ids": [
             14
@@ -34978,7 +34978,7 @@
           "was_home": false
         },
         "12": {
-          "ceiling": 7.0,
+          "ceiling": 6.0,
           "event": 12,
           "expected_minutes": 63.609,
           "fixture_count": 1,
@@ -34987,7 +34987,7 @@
             118
           ],
           "floor": 0.0,
-          "mean": 2.928,
+          "mean": 2.688,
           "opponent_id": 4,
           "opponent_ids": [
             4
@@ -34996,7 +34996,7 @@
           "was_home": true
         },
         "13": {
-          "ceiling": 6.0,
+          "ceiling": 7.0,
           "event": 13,
           "expected_minutes": 63.609,
           "fixture_count": 1,
@@ -35005,7 +35005,7 @@
             129
           ],
           "floor": 0.0,
-          "mean": 2.324,
+          "mean": 2.648,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -35023,7 +35023,7 @@
             137
           ],
           "floor": 0.0,
-          "mean": 3.034,
+          "mean": 3.208,
           "opponent_id": 7,
           "opponent_ids": [
             7
@@ -35041,7 +35041,7 @@
             144
           ],
           "floor": 0.0,
-          "mean": 2.236,
+          "mean": 2.342,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -35061,91 +35061,91 @@
         "11": {
           "ceiling": 6.0,
           "event": 11,
-          "expected_minutes": 59.088,
+          "expected_minutes": 78.085,
           "fixture_count": 1,
           "fixture_id": 107,
           "fixture_ids": [
             107
           ],
           "floor": 0.0,
-          "mean": 2.12,
+          "mean": 2.616,
           "opponent_id": 14,
           "opponent_ids": [
             14
           ],
-          "start_probability": 0.707,
+          "start_probability": 0.942,
           "was_home": false
         },
         "12": {
           "ceiling": 7.0,
           "event": 12,
-          "expected_minutes": 59.088,
+          "expected_minutes": 78.085,
           "fixture_count": 1,
           "fixture_id": 118,
           "fixture_ids": [
             118
           ],
-          "floor": 0.0,
-          "mean": 2.726,
+          "floor": 1.0,
+          "mean": 3.472,
           "opponent_id": 4,
           "opponent_ids": [
             4
           ],
-          "start_probability": 0.707,
+          "start_probability": 0.942,
           "was_home": true
         },
         "13": {
           "ceiling": 6.0,
           "event": 13,
-          "expected_minutes": 59.088,
+          "expected_minutes": 78.085,
           "fixture_count": 1,
           "fixture_id": 129,
           "fixture_ids": [
             129
           ],
           "floor": 0.0,
-          "mean": 2.212,
+          "mean": 2.798,
           "opponent_id": 17,
           "opponent_ids": [
             17
           ],
-          "start_probability": 0.707,
+          "start_probability": 0.942,
           "was_home": false
         },
         "14": {
           "ceiling": 7.0,
           "event": 14,
-          "expected_minutes": 59.088,
+          "expected_minutes": 78.085,
           "fixture_count": 1,
           "fixture_id": 137,
           "fixture_ids": [
             137
           ],
-          "floor": 0.0,
-          "mean": 2.89,
+          "floor": 1.0,
+          "mean": 3.828,
           "opponent_id": 7,
           "opponent_ids": [
             7
           ],
-          "start_probability": 0.707,
+          "start_probability": 0.942,
           "was_home": true
         },
         "15": {
-          "ceiling": 6.0,
+          "ceiling": 7.0,
           "event": 15,
-          "expected_minutes": 59.088,
+          "expected_minutes": 78.085,
           "fixture_count": 1,
           "fixture_id": 144,
           "fixture_ids": [
             144
           ],
           "floor": 0.0,
-          "mean": 1.99,
+          "mean": 2.976,
           "opponent_id": 8,
           "opponent_ids": [
             8
           ],
-          "start_probability": 0.707,
+          "start_probability": 0.942,
           "was_home": false
         }
       },
@@ -35167,7 +35167,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 1.85,
+          "mean": 2.02,
           "opponent_id": 14,
           "opponent_ids": [
             14
@@ -35185,7 +35185,7 @@
             118
           ],
           "floor": 0.0,
-          "mean": 3.038,
+          "mean": 2.776,
           "opponent_id": 4,
           "opponent_ids": [
             4
@@ -35203,7 +35203,7 @@
             129
           ],
           "floor": 0.0,
-          "mean": 2.266,
+          "mean": 2.236,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -35221,7 +35221,7 @@
             137
           ],
           "floor": 0.0,
-          "mean": 2.722,
+          "mean": 2.718,
           "opponent_id": 7,
           "opponent_ids": [
             7
@@ -35239,7 +35239,7 @@
             144
           ],
           "floor": 0.0,
-          "mean": 1.954,
+          "mean": 2.046,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -35356,93 +35356,93 @@
       "effective_ownership": null,
       "gameweeks": {
         "11": {
-          "ceiling": 6.0,
+          "ceiling": 0.0,
           "event": 11,
-          "expected_minutes": 41.804,
+          "expected_minutes": 0.0,
           "fixture_count": 1,
           "fixture_id": 107,
           "fixture_ids": [
             107
           ],
           "floor": 0.0,
-          "mean": 1.58,
+          "mean": 0.0,
           "opponent_id": 14,
           "opponent_ids": [
             14
           ],
-          "start_probability": 0.492,
+          "start_probability": 0.0,
           "was_home": false
         },
         "12": {
-          "ceiling": 7.0,
+          "ceiling": 0.0,
           "event": 12,
-          "expected_minutes": 41.804,
+          "expected_minutes": 0.0,
           "fixture_count": 1,
           "fixture_id": 118,
           "fixture_ids": [
             118
           ],
           "floor": 0.0,
-          "mean": 2.194,
+          "mean": 0.0,
           "opponent_id": 4,
           "opponent_ids": [
             4
           ],
-          "start_probability": 0.492,
+          "start_probability": 0.0,
           "was_home": true
         },
         "13": {
-          "ceiling": 6.0,
+          "ceiling": 0.0,
           "event": 13,
-          "expected_minutes": 41.804,
+          "expected_minutes": 0.0,
           "fixture_count": 1,
           "fixture_id": 129,
           "fixture_ids": [
             129
           ],
           "floor": 0.0,
-          "mean": 1.71,
+          "mean": 0.0,
           "opponent_id": 17,
           "opponent_ids": [
             17
           ],
-          "start_probability": 0.492,
+          "start_probability": 0.0,
           "was_home": false
         },
         "14": {
-          "ceiling": 7.0,
+          "ceiling": 0.0,
           "event": 14,
-          "expected_minutes": 41.804,
+          "expected_minutes": 0.0,
           "fixture_count": 1,
           "fixture_id": 137,
           "fixture_ids": [
             137
           ],
           "floor": 0.0,
-          "mean": 2.246,
+          "mean": 0.0,
           "opponent_id": 7,
           "opponent_ids": [
             7
           ],
-          "start_probability": 0.492,
+          "start_probability": 0.0,
           "was_home": true
         },
         "15": {
-          "ceiling": 5.0,
+          "ceiling": 0.0,
           "event": 15,
-          "expected_minutes": 41.804,
+          "expected_minutes": 0.0,
           "fixture_count": 1,
           "fixture_id": 144,
           "fixture_ids": [
             144
           ],
           "floor": 0.0,
-          "mean": 1.564,
+          "mean": 0.0,
           "opponent_id": 8,
           "opponent_ids": [
             8
           ],
-          "start_probability": 0.492,
+          "start_probability": 0.0,
           "was_home": false
         }
       },
@@ -35455,93 +35455,93 @@
       "effective_ownership": null,
       "gameweeks": {
         "11": {
-          "ceiling": 1.0,
+          "ceiling": 2.0,
           "event": 11,
-          "expected_minutes": 14.703,
+          "expected_minutes": 18.906,
           "fixture_count": 1,
           "fixture_id": 107,
           "fixture_ids": [
             107
           ],
           "floor": 0.0,
-          "mean": 0.526,
+          "mean": 0.456,
           "opponent_id": 14,
           "opponent_ids": [
             14
           ],
-          "start_probability": 0.156,
+          "start_probability": 0.208,
           "was_home": false
         },
         "12": {
-          "ceiling": 2.0,
+          "ceiling": 3.0,
           "event": 12,
-          "expected_minutes": 14.703,
+          "expected_minutes": 18.906,
           "fixture_count": 1,
           "fixture_id": 118,
           "fixture_ids": [
             118
           ],
           "floor": 0.0,
-          "mean": 0.738,
+          "mean": 0.814,
           "opponent_id": 4,
           "opponent_ids": [
             4
           ],
-          "start_probability": 0.156,
+          "start_probability": 0.208,
           "was_home": true
         },
         "13": {
-          "ceiling": 1.0,
+          "ceiling": 3.0,
           "event": 13,
-          "expected_minutes": 14.703,
+          "expected_minutes": 18.906,
           "fixture_count": 1,
           "fixture_id": 129,
           "fixture_ids": [
             129
           ],
           "floor": 0.0,
-          "mean": 0.476,
+          "mean": 0.764,
           "opponent_id": 17,
           "opponent_ids": [
             17
           ],
-          "start_probability": 0.156,
+          "start_probability": 0.208,
           "was_home": false
         },
         "14": {
-          "ceiling": 2.0,
+          "ceiling": 3.0,
           "event": 14,
-          "expected_minutes": 14.703,
+          "expected_minutes": 18.906,
           "fixture_count": 1,
           "fixture_id": 137,
           "fixture_ids": [
             137
           ],
           "floor": 0.0,
-          "mean": 0.704,
+          "mean": 0.882,
           "opponent_id": 7,
           "opponent_ids": [
             7
           ],
-          "start_probability": 0.156,
+          "start_probability": 0.208,
           "was_home": true
         },
         "15": {
           "ceiling": 2.0,
           "event": 15,
-          "expected_minutes": 14.703,
+          "expected_minutes": 18.906,
           "fixture_count": 1,
           "fixture_id": 144,
           "fixture_ids": [
             144
           ],
           "floor": 0.0,
-          "mean": 0.55,
+          "mean": 0.638,
           "opponent_id": 8,
           "opponent_ids": [
             8
           ],
-          "start_probability": 0.156,
+          "start_probability": 0.208,
           "was_home": false
         }
       },
@@ -35554,7 +35554,7 @@
       "effective_ownership": null,
       "gameweeks": {
         "11": {
-          "ceiling": 3.0,
+          "ceiling": 2.0,
           "event": 11,
           "expected_minutes": 18.906,
           "fixture_count": 1,
@@ -35563,7 +35563,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 0.86,
+          "mean": 0.656,
           "opponent_id": 14,
           "opponent_ids": [
             14
@@ -35599,7 +35599,7 @@
             129
           ],
           "floor": 0.0,
-          "mean": 0.76,
+          "mean": 0.784,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -35608,7 +35608,7 @@
           "was_home": false
         },
         "14": {
-          "ceiling": 3.0,
+          "ceiling": 5.0,
           "event": 14,
           "expected_minutes": 18.906,
           "fixture_count": 1,
@@ -35617,7 +35617,7 @@
             137
           ],
           "floor": 0.0,
-          "mean": 0.872,
+          "mean": 1.18,
           "opponent_id": 7,
           "opponent_ids": [
             7
@@ -35635,7 +35635,7 @@
             144
           ],
           "floor": 0.0,
-          "mean": 0.814,
+          "mean": 0.746,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -35761,7 +35761,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 0.052,
+          "mean": 0.038,
           "opponent_id": 14,
           "opponent_ids": [
             14
@@ -35779,7 +35779,7 @@
             118
           ],
           "floor": 0.0,
-          "mean": 0.158,
+          "mean": 0.124,
           "opponent_id": 4,
           "opponent_ids": [
             4
@@ -35797,7 +35797,7 @@
             129
           ],
           "floor": 0.0,
-          "mean": 0.138,
+          "mean": 0.152,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -35815,7 +35815,7 @@
             137
           ],
           "floor": 0.0,
-          "mean": 0.15,
+          "mean": 0.212,
           "opponent_id": 7,
           "opponent_ids": [
             7
@@ -35833,7 +35833,7 @@
             144
           ],
           "floor": 0.0,
-          "mean": 0.128,
+          "mean": 0.138,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -35959,7 +35959,7 @@
             107
           ],
           "floor": 1.0,
-          "mean": 3.946,
+          "mean": 3.95,
           "opponent_id": 14,
           "opponent_ids": [
             14
@@ -35968,7 +35968,7 @@
           "was_home": false
         },
         "12": {
-          "ceiling": 10.0,
+          "ceiling": 9.0,
           "event": 12,
           "expected_minutes": 75.279,
           "fixture_count": 1,
@@ -35976,8 +35976,8 @@
           "fixture_ids": [
             118
           ],
-          "floor": 0.0,
-          "mean": 4.91,
+          "floor": 1.0,
+          "mean": 4.866,
           "opponent_id": 4,
           "opponent_ids": [
             4
@@ -35986,7 +35986,7 @@
           "was_home": true
         },
         "13": {
-          "ceiling": 8.0,
+          "ceiling": 9.0,
           "event": 13,
           "expected_minutes": 75.279,
           "fixture_count": 1,
@@ -35995,7 +35995,7 @@
             129
           ],
           "floor": 1.0,
-          "mean": 4.1,
+          "mean": 4.28,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -36013,7 +36013,7 @@
             137
           ],
           "floor": 1.0,
-          "mean": 5.37,
+          "mean": 5.452,
           "opponent_id": 7,
           "opponent_ids": [
             7
@@ -36031,7 +36031,7 @@
             144
           ],
           "floor": 1.0,
-          "mean": 4.324,
+          "mean": 4.272,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -36058,7 +36058,7 @@
             107
           ],
           "floor": 2.0,
-          "mean": 3.724,
+          "mean": 4.098,
           "opponent_id": 14,
           "opponent_ids": [
             14
@@ -36067,7 +36067,7 @@
           "was_home": false
         },
         "12": {
-          "ceiling": 9.0,
+          "ceiling": 10.0,
           "event": 12,
           "expected_minutes": 81.007,
           "fixture_count": 1,
@@ -36076,7 +36076,7 @@
             118
           ],
           "floor": 2.0,
-          "mean": 4.666,
+          "mean": 5.38,
           "opponent_id": 4,
           "opponent_ids": [
             4
@@ -36085,7 +36085,7 @@
           "was_home": true
         },
         "13": {
-          "ceiling": 8.0,
+          "ceiling": 9.0,
           "event": 13,
           "expected_minutes": 81.007,
           "fixture_count": 1,
@@ -36094,7 +36094,7 @@
             129
           ],
           "floor": 2.0,
-          "mean": 4.27,
+          "mean": 4.47,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -36112,7 +36112,7 @@
             137
           ],
           "floor": 2.0,
-          "mean": 5.436,
+          "mean": 5.5,
           "opponent_id": 7,
           "opponent_ids": [
             7
@@ -36121,7 +36121,7 @@
           "was_home": true
         },
         "15": {
-          "ceiling": 8.0,
+          "ceiling": 9.0,
           "event": 15,
           "expected_minutes": 81.007,
           "fixture_count": 1,
@@ -36130,7 +36130,7 @@
             144
           ],
           "floor": 2.0,
-          "mean": 4.282,
+          "mean": 4.528,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -36148,7 +36148,7 @@
       "effective_ownership": 0.0067,
       "gameweeks": {
         "11": {
-          "ceiling": 6.0,
+          "ceiling": 7.0,
           "event": 11,
           "expected_minutes": 66.629,
           "fixture_count": 1,
@@ -36157,7 +36157,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 2.828,
+          "mean": 2.912,
           "opponent_id": 14,
           "opponent_ids": [
             14
@@ -36175,7 +36175,7 @@
             118
           ],
           "floor": 0.0,
-          "mean": 3.298,
+          "mean": 3.206,
           "opponent_id": 4,
           "opponent_ids": [
             4
@@ -36193,7 +36193,7 @@
             129
           ],
           "floor": 0.0,
-          "mean": 2.968,
+          "mean": 3.048,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -36211,7 +36211,7 @@
             137
           ],
           "floor": 0.0,
-          "mean": 3.494,
+          "mean": 3.594,
           "opponent_id": 7,
           "opponent_ids": [
             7
@@ -36229,7 +36229,7 @@
             144
           ],
           "floor": 0.0,
-          "mean": 3.01,
+          "mean": 3.014,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -36346,7 +36346,7 @@
       "effective_ownership": null,
       "gameweeks": {
         "11": {
-          "ceiling": 6.0,
+          "ceiling": 7.0,
           "event": 11,
           "expected_minutes": 70.855,
           "fixture_count": 1,
@@ -36355,7 +36355,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 2.87,
+          "mean": 3.212,
           "opponent_id": 14,
           "opponent_ids": [
             14
@@ -36364,7 +36364,7 @@
           "was_home": false
         },
         "12": {
-          "ceiling": 8.0,
+          "ceiling": 7.0,
           "event": 12,
           "expected_minutes": 70.855,
           "fixture_count": 1,
@@ -36373,7 +36373,7 @@
             118
           ],
           "floor": 0.0,
-          "mean": 3.794,
+          "mean": 3.592,
           "opponent_id": 4,
           "opponent_ids": [
             4
@@ -36391,7 +36391,7 @@
             129
           ],
           "floor": 0.0,
-          "mean": 3.2,
+          "mean": 3.308,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -36409,7 +36409,7 @@
             137
           ],
           "floor": 0.0,
-          "mean": 3.946,
+          "mean": 4.026,
           "opponent_id": 7,
           "opponent_ids": [
             7
@@ -36427,7 +36427,7 @@
             144
           ],
           "floor": 0.0,
-          "mean": 3.194,
+          "mean": 3.284,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -36445,7 +36445,7 @@
       "effective_ownership": null,
       "gameweeks": {
         "11": {
-          "ceiling": 3.0,
+          "ceiling": 2.0,
           "event": 11,
           "expected_minutes": 13.034,
           "fixture_count": 1,
@@ -36454,7 +36454,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 0.8,
+          "mean": 0.742,
           "opponent_id": 14,
           "opponent_ids": [
             14
@@ -36463,7 +36463,7 @@
           "was_home": false
         },
         "12": {
-          "ceiling": 3.0,
+          "ceiling": 2.0,
           "event": 12,
           "expected_minutes": 13.034,
           "fixture_count": 1,
@@ -36472,7 +36472,7 @@
             118
           ],
           "floor": 0.0,
-          "mean": 0.992,
+          "mean": 0.874,
           "opponent_id": 4,
           "opponent_ids": [
             4
@@ -36490,7 +36490,7 @@
             129
           ],
           "floor": 0.0,
-          "mean": 0.714,
+          "mean": 0.702,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -36508,7 +36508,7 @@
             137
           ],
           "floor": 0.0,
-          "mean": 0.81,
+          "mean": 0.766,
           "opponent_id": 7,
           "opponent_ids": [
             7
@@ -36517,7 +36517,7 @@
           "was_home": true
         },
         "15": {
-          "ceiling": 3.0,
+          "ceiling": 2.0,
           "event": 15,
           "expected_minutes": 13.034,
           "fixture_count": 1,
@@ -36526,7 +36526,7 @@
             144
           ],
           "floor": 0.0,
-          "mean": 0.838,
+          "mean": 0.668,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -36553,7 +36553,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 1.968,
+          "mean": 1.928,
           "opponent_id": 14,
           "opponent_ids": [
             14
@@ -36562,7 +36562,7 @@
           "was_home": false
         },
         "12": {
-          "ceiling": 6.0,
+          "ceiling": 7.0,
           "event": 12,
           "expected_minutes": 42.256,
           "fixture_count": 1,
@@ -36571,7 +36571,7 @@
             118
           ],
           "floor": 0.0,
-          "mean": 2.008,
+          "mean": 2.222,
           "opponent_id": 4,
           "opponent_ids": [
             4
@@ -36580,7 +36580,7 @@
           "was_home": true
         },
         "13": {
-          "ceiling": 6.0,
+          "ceiling": 5.0,
           "event": 13,
           "expected_minutes": 42.256,
           "fixture_count": 1,
@@ -36589,7 +36589,7 @@
             129
           ],
           "floor": 0.0,
-          "mean": 2.138,
+          "mean": 1.756,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -36598,7 +36598,7 @@
           "was_home": false
         },
         "14": {
-          "ceiling": 7.0,
+          "ceiling": 6.0,
           "event": 14,
           "expected_minutes": 42.256,
           "fixture_count": 1,
@@ -36607,7 +36607,7 @@
             137
           ],
           "floor": 0.0,
-          "mean": 2.076,
+          "mean": 1.88,
           "opponent_id": 7,
           "opponent_ids": [
             7
@@ -36625,7 +36625,7 @@
             144
           ],
           "floor": 0.0,
-          "mean": 2.012,
+          "mean": 2.05,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -36643,7 +36643,7 @@
       "effective_ownership": null,
       "gameweeks": {
         "11": {
-          "ceiling": 6.0,
+          "ceiling": 5.0,
           "event": 11,
           "expected_minutes": 49.132,
           "fixture_count": 1,
@@ -36652,7 +36652,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 2.364,
+          "mean": 2.44,
           "opponent_id": 14,
           "opponent_ids": [
             14
@@ -36661,7 +36661,7 @@
           "was_home": false
         },
         "12": {
-          "ceiling": 6.0,
+          "ceiling": 7.0,
           "event": 12,
           "expected_minutes": 49.132,
           "fixture_count": 1,
@@ -36670,7 +36670,7 @@
             118
           ],
           "floor": 0.0,
-          "mean": 2.454,
+          "mean": 2.828,
           "opponent_id": 4,
           "opponent_ids": [
             4
@@ -36688,7 +36688,7 @@
             129
           ],
           "floor": 0.0,
-          "mean": 2.332,
+          "mean": 2.298,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -36706,7 +36706,7 @@
             137
           ],
           "floor": 0.0,
-          "mean": 2.726,
+          "mean": 2.664,
           "opponent_id": 7,
           "opponent_ids": [
             7
@@ -36715,7 +36715,7 @@
           "was_home": true
         },
         "15": {
-          "ceiling": 6.0,
+          "ceiling": 5.0,
           "event": 15,
           "expected_minutes": 49.132,
           "fixture_count": 1,
@@ -36724,7 +36724,7 @@
             144
           ],
           "floor": 0.0,
-          "mean": 2.528,
+          "mean": 2.302,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -36850,7 +36850,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 0.284,
+          "mean": 0.212,
           "opponent_id": 14,
           "opponent_ids": [
             14
@@ -36868,7 +36868,7 @@
             118
           ],
           "floor": 0.0,
-          "mean": 0.254,
+          "mean": 0.26,
           "opponent_id": 4,
           "opponent_ids": [
             4
@@ -36886,7 +36886,7 @@
             129
           ],
           "floor": 0.0,
-          "mean": 0.242,
+          "mean": 0.228,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -36904,7 +36904,7 @@
             137
           ],
           "floor": 0.0,
-          "mean": 0.208,
+          "mean": 0.29,
           "opponent_id": 7,
           "opponent_ids": [
             7
@@ -36922,7 +36922,7 @@
             144
           ],
           "floor": 0.0,
-          "mean": 0.19,
+          "mean": 0.256,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -36949,7 +36949,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 0.592,
+          "mean": 0.572,
           "opponent_id": 14,
           "opponent_ids": [
             14
@@ -36967,7 +36967,7 @@
             118
           ],
           "floor": 0.0,
-          "mean": 0.652,
+          "mean": 0.604,
           "opponent_id": 4,
           "opponent_ids": [
             4
@@ -36976,7 +36976,7 @@
           "was_home": true
         },
         "13": {
-          "ceiling": 1.0,
+          "ceiling": 2.0,
           "event": 13,
           "expected_minutes": 10.651,
           "fixture_count": 1,
@@ -36985,7 +36985,7 @@
             129
           ],
           "floor": 0.0,
-          "mean": 0.49,
+          "mean": 0.606,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -37003,7 +37003,7 @@
             137
           ],
           "floor": 0.0,
-          "mean": 0.554,
+          "mean": 0.614,
           "opponent_id": 7,
           "opponent_ids": [
             7
@@ -37021,7 +37021,7 @@
             144
           ],
           "floor": 0.0,
-          "mean": 0.56,
+          "mean": 0.552,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -37147,7 +37147,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 0.16,
+          "mean": 0.21,
           "opponent_id": 14,
           "opponent_ids": [
             14
@@ -37165,7 +37165,7 @@
             118
           ],
           "floor": 0.0,
-          "mean": 0.22,
+          "mean": 0.164,
           "opponent_id": 4,
           "opponent_ids": [
             4
@@ -37183,7 +37183,7 @@
             129
           ],
           "floor": 0.0,
-          "mean": 0.248,
+          "mean": 0.238,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -37192,7 +37192,7 @@
           "was_home": false
         },
         "14": {
-          "ceiling": 1.0,
+          "ceiling": 0.0,
           "event": 14,
           "expected_minutes": 3.267,
           "fixture_count": 1,
@@ -37201,7 +37201,7 @@
             137
           ],
           "floor": 0.0,
-          "mean": 0.226,
+          "mean": 0.162,
           "opponent_id": 7,
           "opponent_ids": [
             7
@@ -37219,7 +37219,7 @@
             144
           ],
           "floor": 0.0,
-          "mean": 0.224,
+          "mean": 0.302,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -37246,7 +37246,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 0.184,
+          "mean": 0.138,
           "opponent_id": 14,
           "opponent_ids": [
             14
@@ -37264,7 +37264,7 @@
             118
           ],
           "floor": 0.0,
-          "mean": 0.256,
+          "mean": 0.232,
           "opponent_id": 4,
           "opponent_ids": [
             4
@@ -37282,7 +37282,7 @@
             129
           ],
           "floor": 0.0,
-          "mean": 0.178,
+          "mean": 0.192,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -37300,7 +37300,7 @@
             137
           ],
           "floor": 0.0,
-          "mean": 0.232,
+          "mean": 0.194,
           "opponent_id": 7,
           "opponent_ids": [
             7
@@ -37318,7 +37318,7 @@
             144
           ],
           "floor": 0.0,
-          "mean": 0.168,
+          "mean": 0.202,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -37543,7 +37543,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 0.62,
+          "mean": 0.664,
           "opponent_id": 14,
           "opponent_ids": [
             14
@@ -37561,7 +37561,7 @@
             118
           ],
           "floor": 0.0,
-          "mean": 0.72,
+          "mean": 0.582,
           "opponent_id": 4,
           "opponent_ids": [
             4
@@ -37579,7 +37579,7 @@
             129
           ],
           "floor": 0.0,
-          "mean": 0.62,
+          "mean": 0.612,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -37588,7 +37588,7 @@
           "was_home": false
         },
         "14": {
-          "ceiling": 2.0,
+          "ceiling": 3.0,
           "event": 14,
           "expected_minutes": 10.911,
           "fixture_count": 1,
@@ -37597,7 +37597,7 @@
             137
           ],
           "floor": 0.0,
-          "mean": 0.672,
+          "mean": 0.862,
           "opponent_id": 7,
           "opponent_ids": [
             7
@@ -37615,7 +37615,7 @@
             144
           ],
           "floor": 0.0,
-          "mean": 0.692,
+          "mean": 0.666,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -44571,8 +44571,8 @@
           "fixture_ids": [
             106
           ],
-          "floor": 0.0,
-          "mean": 3.93,
+          "floor": 1.0,
+          "mean": 3.854,
           "opponent_id": 11,
           "opponent_ids": [
             11
@@ -44590,7 +44590,7 @@
             112
           ],
           "floor": 1.0,
-          "mean": 4.896,
+          "mean": 5.024,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -44608,7 +44608,7 @@
             122
           ],
           "floor": 0.0,
-          "mean": 3.484,
+          "mean": 3.54,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -44626,7 +44626,7 @@
             139
           ],
           "floor": 1.0,
-          "mean": 3.724,
+          "mean": 3.624,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -44644,7 +44644,7 @@
             142
           ],
           "floor": 1.0,
-          "mean": 4.36,
+          "mean": 4.308,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -51997,7 +51997,7 @@
             106
           ],
           "floor": 1.0,
-          "mean": 3.778,
+          "mean": 3.798,
           "opponent_id": 5,
           "opponent_ids": [
             5
@@ -52015,7 +52015,7 @@
             113
           ],
           "floor": 1.0,
-          "mean": 2.962,
+          "mean": 2.864,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -52032,8 +52032,8 @@
           "fixture_ids": [
             126
           ],
-          "floor": 1.0,
-          "mean": 3.55,
+          "floor": 0.0,
+          "mean": 3.318,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -52051,7 +52051,7 @@
             132
           ],
           "floor": 0.0,
-          "mean": 2.972,
+          "mean": 2.898,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -52069,7 +52069,7 @@
             146
           ],
           "floor": 1.0,
-          "mean": 3.402,
+          "mean": 3.34,
           "opponent_id": 19,
           "opponent_ids": [
             19
@@ -52186,7 +52186,7 @@
       "effective_ownership": null,
       "gameweeks": {
         "11": {
-          "ceiling": 2.0,
+          "ceiling": 1.0,
           "event": 11,
           "expected_minutes": 10.403,
           "fixture_count": 1,
@@ -52195,7 +52195,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 0.634,
+          "mean": 0.526,
           "opponent_id": 5,
           "opponent_ids": [
             5
@@ -52213,7 +52213,7 @@
             113
           ],
           "floor": 0.0,
-          "mean": 0.682,
+          "mean": 0.666,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -52231,7 +52231,7 @@
             126
           ],
           "floor": 0.0,
-          "mean": 0.568,
+          "mean": 0.606,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -52249,7 +52249,7 @@
             132
           ],
           "floor": 0.0,
-          "mean": 0.54,
+          "mean": 0.62,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -52258,7 +52258,7 @@
           "was_home": false
         },
         "15": {
-          "ceiling": 2.0,
+          "ceiling": 1.0,
           "event": 15,
           "expected_minutes": 10.403,
           "fixture_count": 1,
@@ -52267,7 +52267,7 @@
             146
           ],
           "floor": 0.0,
-          "mean": 0.56,
+          "mean": 0.538,
           "opponent_id": 19,
           "opponent_ids": [
             19
@@ -52393,7 +52393,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 2.168,
+          "mean": 2.128,
           "opponent_id": 5,
           "opponent_ids": [
             5
@@ -52411,7 +52411,7 @@
             113
           ],
           "floor": 0.0,
-          "mean": 1.998,
+          "mean": 1.98,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -52429,7 +52429,7 @@
             126
           ],
           "floor": 0.0,
-          "mean": 2.26,
+          "mean": 2.136,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -52447,7 +52447,7 @@
             132
           ],
           "floor": 0.0,
-          "mean": 1.88,
+          "mean": 1.874,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -52465,7 +52465,7 @@
             146
           ],
           "floor": 0.0,
-          "mean": 2.294,
+          "mean": 2.224,
           "opponent_id": 19,
           "opponent_ids": [
             19
@@ -52690,7 +52690,7 @@
             107
           ],
           "floor": 0.0,
-          "mean": 3.498,
+          "mean": 3.328,
           "opponent_id": 16,
           "opponent_ids": [
             16
@@ -52708,7 +52708,7 @@
             114
           ],
           "floor": 0.0,
-          "mean": 2.79,
+          "mean": 2.78,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -52726,7 +52726,7 @@
             127
           ],
           "floor": 0.0,
-          "mean": 3.966,
+          "mean": 3.992,
           "opponent_id": 20,
           "opponent_ids": [
             20
@@ -52744,7 +52744,7 @@
             134
           ],
           "floor": 0.0,
-          "mean": 2.564,
+          "mean": 2.748,
           "opponent_id": 6,
           "opponent_ids": [
             6
@@ -52762,7 +52762,7 @@
             148
           ],
           "floor": 0.0,
-          "mean": 3.658,
+          "mean": 3.632,
           "opponent_id": 13,
           "opponent_ids": [
             13
@@ -53383,7 +53383,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 1.35,
+          "mean": 1.39,
           "opponent_id": 5,
           "opponent_ids": [
             5
@@ -53401,7 +53401,7 @@
             113
           ],
           "floor": 0.0,
-          "mean": 0.964,
+          "mean": 1.036,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -53410,7 +53410,7 @@
           "was_home": false
         },
         "13": {
-          "ceiling": 6.0,
+          "ceiling": 4.0,
           "event": 13,
           "expected_minutes": 25.579,
           "fixture_count": 1,
@@ -53419,7 +53419,7 @@
             126
           ],
           "floor": 0.0,
-          "mean": 1.39,
+          "mean": 1.284,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -53437,7 +53437,7 @@
             132
           ],
           "floor": 0.0,
-          "mean": 1.052,
+          "mean": 0.942,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -53455,7 +53455,7 @@
             146
           ],
           "floor": 0.0,
-          "mean": 1.452,
+          "mean": 1.47,
           "opponent_id": 19,
           "opponent_ids": [
             19
@@ -53482,7 +53482,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 3.562,
+          "mean": 3.512,
           "opponent_id": 5,
           "opponent_ids": [
             5
@@ -53500,7 +53500,7 @@
             113
           ],
           "floor": 0.0,
-          "mean": 2.934,
+          "mean": 2.974,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -53518,7 +53518,7 @@
             126
           ],
           "floor": 0.0,
-          "mean": 3.088,
+          "mean": 3.348,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -53536,7 +53536,7 @@
             132
           ],
           "floor": 0.0,
-          "mean": 3.044,
+          "mean": 2.784,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -53554,7 +53554,7 @@
             146
           ],
           "floor": 0.0,
-          "mean": 3.212,
+          "mean": 3.15,
           "opponent_id": 19,
           "opponent_ids": [
             19
@@ -53779,7 +53779,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 0.994,
+          "mean": 0.892,
           "opponent_id": 5,
           "opponent_ids": [
             5
@@ -53797,7 +53797,7 @@
             113
           ],
           "floor": 0.0,
-          "mean": 0.922,
+          "mean": 0.896,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -53815,7 +53815,7 @@
             126
           ],
           "floor": 0.0,
-          "mean": 0.886,
+          "mean": 0.934,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -53833,7 +53833,7 @@
             132
           ],
           "floor": 0.0,
-          "mean": 0.85,
+          "mean": 0.822,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -53851,7 +53851,7 @@
             146
           ],
           "floor": 0.0,
-          "mean": 0.828,
+          "mean": 0.896,
           "opponent_id": 19,
           "opponent_ids": [
             19
@@ -54373,7 +54373,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 0.678,
+          "mean": 0.746,
           "opponent_id": 11,
           "opponent_ids": [
             11
@@ -54382,7 +54382,7 @@
           "was_home": false
         },
         "12": {
-          "ceiling": 2.0,
+          "ceiling": 3.0,
           "event": 12,
           "expected_minutes": 11.397,
           "fixture_count": 1,
@@ -54391,7 +54391,7 @@
             112
           ],
           "floor": 0.0,
-          "mean": 0.844,
+          "mean": 0.91,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -54409,7 +54409,7 @@
             122
           ],
           "floor": 0.0,
-          "mean": 0.604,
+          "mean": 0.804,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -54418,7 +54418,7 @@
           "was_home": false
         },
         "14": {
-          "ceiling": 1.0,
+          "ceiling": 2.0,
           "event": 14,
           "expected_minutes": 11.397,
           "fixture_count": 1,
@@ -54427,7 +54427,7 @@
             139
           ],
           "floor": 0.0,
-          "mean": 0.634,
+          "mean": 0.662,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -54445,7 +54445,7 @@
             142
           ],
           "floor": 0.0,
-          "mean": 0.804,
+          "mean": 0.712,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -55165,7 +55165,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 0.634,
+          "mean": 0.688,
           "opponent_id": 11,
           "opponent_ids": [
             11
@@ -55174,7 +55174,7 @@
           "was_home": false
         },
         "12": {
-          "ceiling": 2.0,
+          "ceiling": 1.0,
           "event": 12,
           "expected_minutes": 10.651,
           "fixture_count": 1,
@@ -55183,7 +55183,7 @@
             112
           ],
           "floor": 0.0,
-          "mean": 0.648,
+          "mean": 0.498,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -55201,7 +55201,7 @@
             122
           ],
           "floor": 0.0,
-          "mean": 0.538,
+          "mean": 0.484,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -55210,7 +55210,7 @@
           "was_home": false
         },
         "14": {
-          "ceiling": 2.0,
+          "ceiling": 1.0,
           "event": 14,
           "expected_minutes": 10.651,
           "fixture_count": 1,
@@ -55219,7 +55219,7 @@
             139
           ],
           "floor": 0.0,
-          "mean": 0.624,
+          "mean": 0.464,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -55237,7 +55237,7 @@
             142
           ],
           "floor": 0.0,
-          "mean": 0.594,
+          "mean": 0.51,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -55660,7 +55660,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 1.788,
+          "mean": 1.876,
           "opponent_id": 11,
           "opponent_ids": [
             11
@@ -55669,7 +55669,7 @@
           "was_home": false
         },
         "12": {
-          "ceiling": 7.0,
+          "ceiling": 6.0,
           "event": 12,
           "expected_minutes": 26.132,
           "fixture_count": 1,
@@ -55678,7 +55678,7 @@
             112
           ],
           "floor": 0.0,
-          "mean": 2.076,
+          "mean": 1.74,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -55696,7 +55696,7 @@
             122
           ],
           "floor": 0.0,
-          "mean": 1.448,
+          "mean": 1.498,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -55705,7 +55705,7 @@
           "was_home": false
         },
         "14": {
-          "ceiling": 4.0,
+          "ceiling": 5.0,
           "event": 14,
           "expected_minutes": 26.132,
           "fixture_count": 1,
@@ -55714,7 +55714,7 @@
             139
           ],
           "floor": 0.0,
-          "mean": 1.338,
+          "mean": 1.394,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -55723,7 +55723,7 @@
           "was_home": false
         },
         "15": {
-          "ceiling": 6.0,
+          "ceiling": 7.0,
           "event": 15,
           "expected_minutes": 26.132,
           "fixture_count": 1,
@@ -55732,7 +55732,7 @@
             142
           ],
           "floor": 0.0,
-          "mean": 1.558,
+          "mean": 1.824,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -56668,7 +56668,7 @@
             112
           ],
           "floor": 0.0,
-          "mean": 0.614,
+          "mean": 0.662,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -56686,7 +56686,7 @@
             122
           ],
           "floor": 0.0,
-          "mean": 0.368,
+          "mean": 0.292,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -56704,7 +56704,7 @@
             139
           ],
           "floor": 0.0,
-          "mean": 0.364,
+          "mean": 0.352,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -56722,7 +56722,7 @@
             142
           ],
           "floor": 0.0,
-          "mean": 0.44,
+          "mean": 0.398,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -56947,7 +56947,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 0.86,
+          "mean": 0.878,
           "opponent_id": 5,
           "opponent_ids": [
             5
@@ -56956,7 +56956,7 @@
           "was_home": true
         },
         "12": {
-          "ceiling": 3.0,
+          "ceiling": 2.0,
           "event": 12,
           "expected_minutes": 13.338,
           "fixture_count": 1,
@@ -56965,7 +56965,7 @@
             113
           ],
           "floor": 0.0,
-          "mean": 0.858,
+          "mean": 0.778,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -56974,7 +56974,7 @@
           "was_home": false
         },
         "13": {
-          "ceiling": 3.0,
+          "ceiling": 4.0,
           "event": 13,
           "expected_minutes": 13.338,
           "fixture_count": 1,
@@ -56983,7 +56983,7 @@
             126
           ],
           "floor": 0.0,
-          "mean": 0.912,
+          "mean": 1.056,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -56992,7 +56992,7 @@
           "was_home": true
         },
         "14": {
-          "ceiling": 2.0,
+          "ceiling": 3.0,
           "event": 14,
           "expected_minutes": 13.338,
           "fixture_count": 1,
@@ -57001,7 +57001,7 @@
             132
           ],
           "floor": 0.0,
-          "mean": 0.628,
+          "mean": 0.848,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -57010,7 +57010,7 @@
           "was_home": false
         },
         "15": {
-          "ceiling": 3.0,
+          "ceiling": 4.0,
           "event": 15,
           "expected_minutes": 13.338,
           "fixture_count": 1,
@@ -57019,7 +57019,7 @@
             146
           ],
           "floor": 0.0,
-          "mean": 1.0,
+          "mean": 1.132,
           "opponent_id": 19,
           "opponent_ids": [
             19
@@ -58027,7 +58027,7 @@
       "effective_ownership": 0.0067,
       "gameweeks": {
         "11": {
-          "ceiling": 8.0,
+          "ceiling": 7.0,
           "event": 11,
           "expected_minutes": 72.145,
           "fixture_count": 1,
@@ -58035,8 +58035,8 @@
           "fixture_ids": [
             107
           ],
-          "floor": 1.0,
-          "mean": 3.602,
+          "floor": 0.0,
+          "mean": 3.51,
           "opponent_id": 16,
           "opponent_ids": [
             16
@@ -58054,7 +58054,7 @@
             114
           ],
           "floor": 0.0,
-          "mean": 3.222,
+          "mean": 3.258,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -58072,7 +58072,7 @@
             127
           ],
           "floor": 0.0,
-          "mean": 4.222,
+          "mean": 4.092,
           "opponent_id": 20,
           "opponent_ids": [
             20
@@ -58090,7 +58090,7 @@
             134
           ],
           "floor": 0.0,
-          "mean": 3.122,
+          "mean": 3.162,
           "opponent_id": 6,
           "opponent_ids": [
             6
@@ -58108,7 +58108,7 @@
             148
           ],
           "floor": 0.0,
-          "mean": 3.902,
+          "mean": 3.836,
           "opponent_id": 13,
           "opponent_ids": [
             13
@@ -59125,7 +59125,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 0.564,
+          "mean": 0.57,
           "opponent_id": 5,
           "opponent_ids": [
             5
@@ -59134,7 +59134,7 @@
           "was_home": true
         },
         "12": {
-          "ceiling": 1.0,
+          "ceiling": 2.0,
           "event": 12,
           "expected_minutes": 10.834,
           "fixture_count": 1,
@@ -59143,7 +59143,7 @@
             113
           ],
           "floor": 0.0,
-          "mean": 0.514,
+          "mean": 0.54,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -59152,7 +59152,7 @@
           "was_home": false
         },
         "13": {
-          "ceiling": 1.0,
+          "ceiling": 2.0,
           "event": 13,
           "expected_minutes": 10.834,
           "fixture_count": 1,
@@ -59161,7 +59161,7 @@
             126
           ],
           "floor": 0.0,
-          "mean": 0.59,
+          "mean": 0.618,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -59179,7 +59179,7 @@
             132
           ],
           "floor": 0.0,
-          "mean": 0.612,
+          "mean": 0.634,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -59188,7 +59188,7 @@
           "was_home": false
         },
         "15": {
-          "ceiling": 1.0,
+          "ceiling": 2.0,
           "event": 15,
           "expected_minutes": 10.834,
           "fixture_count": 1,
@@ -59197,7 +59197,7 @@
             146
           ],
           "floor": 0.0,
-          "mean": 0.546,
+          "mean": 0.608,
           "opponent_id": 19,
           "opponent_ids": [
             19
@@ -59215,7 +59215,7 @@
       "effective_ownership": null,
       "gameweeks": {
         "11": {
-          "ceiling": 2.0,
+          "ceiling": 1.0,
           "event": 11,
           "expected_minutes": 12.88,
           "fixture_count": 1,
@@ -59224,7 +59224,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 0.594,
+          "mean": 0.546,
           "opponent_id": 5,
           "opponent_ids": [
             5
@@ -59233,7 +59233,7 @@
           "was_home": true
         },
         "12": {
-          "ceiling": 1.0,
+          "ceiling": 2.0,
           "event": 12,
           "expected_minutes": 12.88,
           "fixture_count": 1,
@@ -59242,7 +59242,7 @@
             113
           ],
           "floor": 0.0,
-          "mean": 0.564,
+          "mean": 0.598,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -59260,7 +59260,7 @@
             126
           ],
           "floor": 0.0,
-          "mean": 0.566,
+          "mean": 0.592,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -59269,7 +59269,7 @@
           "was_home": true
         },
         "14": {
-          "ceiling": 1.0,
+          "ceiling": 2.0,
           "event": 14,
           "expected_minutes": 12.88,
           "fixture_count": 1,
@@ -59278,7 +59278,7 @@
             132
           ],
           "floor": 0.0,
-          "mean": 0.474,
+          "mean": 0.528,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -59296,7 +59296,7 @@
             146
           ],
           "floor": 0.0,
-          "mean": 0.714,
+          "mean": 0.662,
           "opponent_id": 19,
           "opponent_ids": [
             19
@@ -59323,7 +59323,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 2.56,
+          "mean": 2.506,
           "opponent_id": 11,
           "opponent_ids": [
             11
@@ -59341,7 +59341,7 @@
             112
           ],
           "floor": 0.0,
-          "mean": 2.714,
+          "mean": 2.482,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -59350,7 +59350,7 @@
           "was_home": true
         },
         "13": {
-          "ceiling": 6.0,
+          "ceiling": 5.0,
           "event": 13,
           "expected_minutes": 59.24,
           "fixture_count": 1,
@@ -59359,7 +59359,7 @@
             122
           ],
           "floor": 0.0,
-          "mean": 2.512,
+          "mean": 2.324,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -59368,7 +59368,7 @@
           "was_home": false
         },
         "14": {
-          "ceiling": 5.0,
+          "ceiling": 6.0,
           "event": 14,
           "expected_minutes": 59.24,
           "fixture_count": 1,
@@ -59377,7 +59377,7 @@
             139
           ],
           "floor": 0.0,
-          "mean": 2.356,
+          "mean": 2.49,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -59395,7 +59395,7 @@
             142
           ],
           "floor": 0.0,
-          "mean": 2.822,
+          "mean": 2.73,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -59710,7 +59710,7 @@
       "effective_ownership": null,
       "gameweeks": {
         "11": {
-          "ceiling": 6.0,
+          "ceiling": 5.0,
           "event": 11,
           "expected_minutes": 32.88,
           "fixture_count": 1,
@@ -59719,7 +59719,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 1.784,
+          "mean": 1.654,
           "opponent_id": 5,
           "opponent_ids": [
             5
@@ -59737,7 +59737,7 @@
             113
           ],
           "floor": 0.0,
-          "mean": 1.456,
+          "mean": 1.422,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -59755,7 +59755,7 @@
             126
           ],
           "floor": 0.0,
-          "mean": 1.502,
+          "mean": 1.656,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -59773,7 +59773,7 @@
             132
           ],
           "floor": 0.0,
-          "mean": 1.434,
+          "mean": 1.452,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -59782,7 +59782,7 @@
           "was_home": false
         },
         "15": {
-          "ceiling": 5.0,
+          "ceiling": 6.0,
           "event": 15,
           "expected_minutes": 32.88,
           "fixture_count": 1,
@@ -59791,7 +59791,7 @@
             146
           ],
           "floor": 0.0,
-          "mean": 1.718,
+          "mean": 1.782,
           "opponent_id": 19,
           "opponent_ids": [
             19
@@ -60016,7 +60016,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 0.612,
+          "mean": 0.682,
           "opponent_id": 5,
           "opponent_ids": [
             5
@@ -60034,7 +60034,7 @@
             113
           ],
           "floor": 0.0,
-          "mean": 0.646,
+          "mean": 0.704,
           "opponent_id": 8,
           "opponent_ids": [
             8
@@ -60052,7 +60052,7 @@
             126
           ],
           "floor": 0.0,
-          "mean": 0.63,
+          "mean": 0.568,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -60061,7 +60061,7 @@
           "was_home": true
         },
         "14": {
-          "ceiling": 1.0,
+          "ceiling": 2.0,
           "event": 14,
           "expected_minutes": 11.021,
           "fixture_count": 1,
@@ -60070,7 +60070,7 @@
             132
           ],
           "floor": 0.0,
-          "mean": 0.464,
+          "mean": 0.56,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -60088,7 +60088,7 @@
             146
           ],
           "floor": 0.0,
-          "mean": 0.572,
+          "mean": 0.562,
           "opponent_id": 19,
           "opponent_ids": [
             19
@@ -60808,7 +60808,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 0.352,
+          "mean": 0.298,
           "opponent_id": 11,
           "opponent_ids": [
             11
@@ -60826,7 +60826,7 @@
             112
           ],
           "floor": 0.0,
-          "mean": 0.268,
+          "mean": 0.33,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -60844,7 +60844,7 @@
             122
           ],
           "floor": 0.0,
-          "mean": 0.3,
+          "mean": 0.278,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -60862,7 +60862,7 @@
             139
           ],
           "floor": 0.0,
-          "mean": 0.36,
+          "mean": 0.302,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -60880,7 +60880,7 @@
             142
           ],
           "floor": 0.0,
-          "mean": 0.33,
+          "mean": 0.364,
           "opponent_id": 9,
           "opponent_ids": [
             9
@@ -61402,7 +61402,7 @@
             106
           ],
           "floor": 0.0,
-          "mean": 0.246,
+          "mean": 0.286,
           "opponent_id": 11,
           "opponent_ids": [
             11
@@ -61420,7 +61420,7 @@
             112
           ],
           "floor": 0.0,
-          "mean": 0.3,
+          "mean": 0.204,
           "opponent_id": 17,
           "opponent_ids": [
             17
@@ -61438,7 +61438,7 @@
             122
           ],
           "floor": 0.0,
-          "mean": 0.204,
+          "mean": 0.218,
           "opponent_id": 3,
           "opponent_ids": [
             3
@@ -61456,7 +61456,7 @@
             139
           ],
           "floor": 0.0,
-          "mean": 0.244,
+          "mean": 0.188,
           "opponent_id": 18,
           "opponent_ids": [
             18
@@ -61474,7 +61474,7 @@
             142
           ],
           "floor": 0.0,
-          "mean": 0.278,
+          "mean": 0.264,
           "opponent_id": 9,
           "opponent_ids": [
             9
