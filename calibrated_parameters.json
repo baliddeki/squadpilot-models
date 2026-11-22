@@ -811,6 +811,12 @@
   "planning": {
     "bank_value_per_million": 0.08,
     "beam_width": 1,
+    "chip_persistence": {
+      "3xc": 0.9,
+      "bboost": 0.9,
+      "freehit": 0.9,
+      "wildcard": 0.9
+    },
     "chip_switch_margin": 0.0,
     "commitment_weeks": 0,
     "decay": 0.0,
